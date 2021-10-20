@@ -25,14 +25,14 @@
   <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="My Stackoverflow Profile" href="https://stackoverflow.com/users/13643722/darth-demono?tab=profile" class="url u-url stack fa-stack-overflow"><img src="https://img.shields.io/badge/-Stack%20Overflow-black?style=for-the-badge&logo=StackOverflow"></a>
   <a tabindex="0" rel="external author me contact about" hreflang="en-US" type="text/html" title="My Reddit" href="https://www.reddit.com/user/DarthDemono" class="url u-url"><img src="https://img.shields.io/badge/-Reddit-black?style=for-the-badge&logo=Reddit"></a>
   <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="Promoted Discord Server" href="https://discord.gg/dBEPm5n4r6" class="url u-url"><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord"></a>
-  <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="My Email" href="mailto:darthdemono@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"></a>
+  <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="My Email" href="mailto:darthdemono@gmail.com"><img rc="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"></a>
 </div>
 
 ## Statistics
-<p style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=darthdemono&show_icons=true&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darthdemono&layout=compact&card_width=250&langs_count=6&theme=react" height="195rem"  />
-</p>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=darthdemono&show_icons=true&theme=react" height="195px" width="420px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darthdemono&layout=compact&card_width=250&langs_count=6&theme=react" height="195px" width="355px" />
+</div>
 
 <h4>This is my GitHub repository where you will see some the Projects I have Worked on. </h4>
 
