@@ -29,7 +29,7 @@
 </div>
 
 ## Statistics
-<p style="flex: center;">
+<p style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=darthdemono&show_icons=true&theme=react"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darthdemono&layout=compact&card_width=250&langs_count=6&theme=react" height="195rem"  />
 </p>
