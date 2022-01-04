@@ -2,7 +2,9 @@
 
 <p>I'm a high school student interested in Data Science and Web Development. I have been programming since 2019.</p>
 
-<p>Make Sure To Vist My Website https://darthdemono.github.io/</p>
+<p>Make Sure To Vist My Website 
+  <a href="https://darthdemono.github.io/" rel="me follow home author contact about">https://darthdemono.github.io/</a>
+</p>
 
 ## Technologies that I know how to use
 <div style="display: flex;">
@@ -24,7 +26,7 @@
   <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="My Facebook Profile" href="https://www.facebook.com/darthdemono/" class="url u-url"><img src="https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook"></a>
   <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="My Stackoverflow Profile" href="https://stackoverflow.com/users/13643722/darth-demono?tab=profile" class="url u-url stack fa-stack-overflow"><img src="https://img.shields.io/badge/-Stack%20Overflow-black?style=for-the-badge&logo=StackOverflow"></a>
   <a tabindex="0" rel="external author me contact about" hreflang="en-US" type="text/html" title="My Reddit" href="https://www.reddit.com/user/DarthDemono" class="url u-url"><img src="https://img.shields.io/badge/-Reddit-black?style=for-the-badge&logo=Reddit"></a>
-  <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="Promoted Discord Server" href="https://discord.gg/dBEPm5n4r6" class="url u-url"><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord"></a>
+  <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="Promoted Discord Server" href="https://discord.gg/sNqH8NVRry" class="url u-url"><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord"></a>
   <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="My Email" href="mailto:darthdemono@gmail.com"><img rc="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"></a>
 </div>
 
