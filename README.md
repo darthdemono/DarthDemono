@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-001633?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/-HTML-001633?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/-CSS-001633?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/-Flask-001633?style=for-the-badge&logo=flask">
   <img src="https://img.shields.io/badge/-Git-001633?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/-Bash-001633?style=for-the-badge&logo=gnubash">
   <img src="https://img.shields.io/badge/-Windows-001633?style=for-the-badge&logo=Windows">
