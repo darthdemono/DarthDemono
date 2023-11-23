@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/-Git-001633?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/-Windows-001633?style=for-the-badge&logo=Windows">
   <img src="https://img.shields.io/badge/-CMD-001633?style=for-the-badge&logo=windowsterminal">
+  <img src="https://img.shields.io/badge/-C-001633?style=for-the-badge&logo=c">
 </div>
 
 ## Socials
