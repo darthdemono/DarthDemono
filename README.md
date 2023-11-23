@@ -43,5 +43,5 @@
   <h3>Programming Certificates</h3>
   
   3. C
-     - [C for Beginners Certificate](/C%20for%20Beginners.pdf)
+     - [C for Beginners Certificate](C%20for%20beginners.pdf)
 </details>
