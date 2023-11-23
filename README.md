@@ -33,10 +33,15 @@
   <summary><h2>Certificates:</h2></summary>
     <h3>Networking Certificates</h3>
   
-  1. Basics of Computer Networking
-     - [Basics of Computer Network Certificate](Basics%20of%20Networking.pdf)
+  1. Computer Networking
+     - [Basics of Computer Network Certificate](/Basics%20of%20Networking.pdf)
 
   2. Network Security
-     - [Types of Network Security Certificate](Types%20of%20Network%20Security.pdf)
-     - [Network Security Certificate](Network%20Security.pdf)
+     - [Types of Network Security Certificate](/Types%20of%20Network%20Security.pdf)
+     - [Network Security Certificate](/Network%20Security.pdf)
+
+  <h3>Programming Certificates</h3>
+  
+  3. C
+     - [C for Beginners Certificate](/C%20for%20Beginners.pdf)
 </details>
