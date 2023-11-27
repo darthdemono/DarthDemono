@@ -76,8 +76,13 @@ This is my GitHub repository where you will see some of the projects I have work
   - **Network Security**
     - [Types of Network Security Certificate](/Types%20of%20Network%20Security.pdf) - Explore various types of network security measures.
     - [Network Security Certificate](/Network%20Security.pdf) - Gain expertise in network security practices.
+
+  - **Application Security**
+    - [Introduction to Application Security Certificate](Introduction%20to%20Application%20Security.pdf) - Learn the essentials of securing applications.
+
   - **Firewall**
     - [Introduction to Firewall Certificate](Introduction%20to%20Firewall.pdf) - Understand the basics of firewalls and their role in network security.
+  
   - **Cryptography**
     - [Introduction to Cryptography Certificate](Introduction%20to%20Cryptography.pdf) - Delve into the principles of cryptography and encryption.
 
