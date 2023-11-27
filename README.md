@@ -71,32 +71,31 @@ This is my GitHub repository where you will see some of the projects I have work
   <h3>Networking and Security Certificates</h3>
   
   - **Computer Networking**
-    - [Basics of Computer Network Certificate](/Basics%20of%20Networking.pdf)
+    - [Basics of Computer Network Certificate](/Basics%20of%20Networking.pdf) - Learn about the fundamentals of computer networking, protocols, and more.
 
   - **Network Security**
-    - [Types of Network Security Certificate](/Types%20of%20Network%20Security.pdf)
-    - [Network Security Certificate](/Network%20Security.pdf)
+    - [Types of Network Security Certificate](/Types%20of%20Network%20Security.pdf) - Explore various types of network security measures.
+    - [Network Security Certificate](/Network%20Security.pdf) - Gain expertise in network security practices.
   - **Firewall**
-    - [Introduction to Firewall Certificate](Introduction%20to%20Firewall.pdf)
+    - [Introduction to Firewall Certificate](Introduction%20to%20Firewall.pdf) - Understand the basics of firewalls and their role in network security.
   - **Cryptography**
-    - [Introduction to Cryptography Certificate](Introduction%20to%20Cryptography.pdf)
+    - [Introduction to Cryptography Certificate](Introduction%20to%20Cryptography.pdf) - Delve into the principles of cryptography and encryption.
 
   <h3>Programming Certificates</h3>
   
   - **C**
-    - [C for Beginners Certificate](C%20for%20beginners.pdf)
+    - [C for Beginners Certificate](C%20for%20beginners.pdf) - Master the basics of programming with the C language.
 
   <h3>Web Development Certificates</h3>
   
   - **HTML**
-    - [Front End Development - HTML Certificate](Front%20End%20Development%20-%20HTML.pdf)
+    - [Front End Development - HTML Certificate](Front%20End%20Development%20-%20HTML.pdf) - Develop skills in HTML for web development.
 
   <h3>SEO Certificates</h3>
   
   - **SEO For Beginners**
-    - [SEO For Beginners Certificate](SEO%20For%20Beginners.pdf)
-
+    - [SEO For Beginners Certificate](SEO%20For%20Beginners.pdf) - Learn foundational SEO strategies.
+    
   - **SEO Strategies**
-    - [SEO Strategies Certificate](SEO%20Strategies.pdf)
-
+    - [SEO Strategies Certificate](SEO%20Strategies.pdf) - Explore advanced SEO tactics.
 </details>
