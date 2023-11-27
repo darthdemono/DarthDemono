@@ -46,15 +46,26 @@ This is my GitHub repository where you will see some of the projects I have work
   
   <h3>Networking Certificates</h3>
   
-  1. Computer Networking
-     - [Basics of Computer Network Certificate](/Basics%20of%20Networking.pdf)
+  - **Computer Networking**
+    - [Basics of Computer Network Certificate](/Basics%20of%20Networking.pdf)
 
-  2. Network Security
-     - [Types of Network Security Certificate](/Types%20of%20Network%20Security.pdf)
-     - [Network Security Certificate](/Network%20Security.pdf)
+  - **Network Security**
+    - [Types of Network Security Certificate](/Types%20of%20Network%20Security.pdf)
+    - [Network Security Certificate](/Network%20Security.pdf)
+    - [Introduction to Firewall Certificate](Introduction%20to%20Firewall.pdf)
 
   <h3>Programming Certificates</h3>
   
-  3. C
-     - [C for Beginners Certificate](C%20for%20beginners.pdf)
+  - **C**
+    - [C for Beginners Certificate](C%20for%20beginners.pdf)
+
+  <h3>Web Development Certificates</h3>
+  
+  - **HTML**
+    - [Front End Development - HTML Certificate](Front%20End%20Development%20-%20HTML.pdf)
+
+  <h3>SEO Certificates</h3>
+  
+  - **SEO For Beginners**
+    - [SEO For Beginners Certificate](SEO%20For%20Beginners.pdf)
 </details>
