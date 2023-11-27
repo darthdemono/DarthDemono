@@ -52,7 +52,10 @@ This is my GitHub repository where you will see some of the projects I have work
   - **Network Security**
     - [Types of Network Security Certificate](/Types%20of%20Network%20Security.pdf)
     - [Network Security Certificate](/Network%20Security.pdf)
+  - **Firewall**
     - [Introduction to Firewall Certificate](Introduction%20to%20Firewall.pdf)
+  - **Cryptography**
+    - [Introduction to Cryptography Certificate](Introduction%20to%20Cryptography.pdf)
 
   <h3>Programming Certificates</h3>
   
@@ -68,4 +71,8 @@ This is my GitHub repository where you will see some of the projects I have work
   
   - **SEO For Beginners**
     - [SEO For Beginners Certificate](SEO%20For%20Beginners.pdf)
+
+  - **SEO Strategies**
+    - [SEO Strategies Certificate](SEO%20Strategies.pdf)
+
 </details>
