@@ -44,7 +44,7 @@ This is my GitHub repository where you will see some of the projects I have work
 <details>
   <summary><h2>Certificates</h2></summary>
   
-  <h3>Networking Certificates</h3>
+  <h3>Networking and Security Certificates</h3>
   
   - **Computer Networking**
     - [Basics of Computer Network Certificate](/Basics%20of%20Networking.pdf)
