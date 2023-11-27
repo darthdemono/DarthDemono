@@ -22,9 +22,11 @@ I'm a high school student interested in Networking and Internet Technology. I ha
   <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="My Instagram" href="https://instagram.com/darthdemono/" class="url u-url">
     <img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram" alt="Instagram Badge">
   </a>
+  
   <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="My Facebook Profile" href="https://www.facebook.com/darthdemono/" class="url u-url">
     <img src="https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook" alt="Facebook Badge">
   </a>
+  
   <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="My Stackoverflow Profile" href="https://stackoverflow.com/users/13643722/darth-demono?tab=profile" class="url u-url stack fa-stack-overflow">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-black?style=for-the-badge&logo=StackOverflow" alt="StackOverflow Badge">
   </a>
@@ -39,7 +41,29 @@ I'm a high school student interested in Networking and Internet Technology. I ha
 
 ### Projects
 
-This is my GitHub repository where you will see some of the projects I have worked on.
+This is my GitHub repository where you will see some of the projects I have worked on: 
+
+<details>
+  <summary><h3>Spotipython</h3></summary>
+  
+  <h3>Spotipython - Fetch Spotify Track and Album Data</h3>
+
+  - **Description:** An open-source project for fetching Spotify track and album data programmatically using Python and the Spotify API.
+
+  - **GitHub Repository:** [Spotipython](https://github.com/darthdemono/Spotipython)
+
+  - **Scripts:**
+    - **[spotify_album.py](https://github.com/darthdemono/Spotipython/blob/main/spotify_album.py):** Fetches information about a Spotify album and its tracks.
+    - **[spotify_search.py](https://github.com/darthdemono/Spotipython/blob/main/spotify_search.py):** Searches for tracks on Spotify based on user input.
+    - **[spotify_client.py](https://github.com/darthdemono/Spotipython/blob/main/spotify_client.py):** Defines a SpotifyAPI class for handling authentication and making requests to the Spotify API.
+    - **[functions.py](https://github.com/darthdemono/Spotipython/blob/main/functions.py):** Contains utility functions used in other files.
+
+  - **How to Use:**
+    - Given in the Project's [README.md](https://github.com/darthdemono/Spotipython/blob/main/README.md) file
+
+</details>
+
+### My Certificates are given below: 
 
 <details>
   <summary><h2>Certificates</h2></summary>
