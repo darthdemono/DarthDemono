@@ -121,7 +121,10 @@ This is my GitHub repository where you will see some of the projects I have work
     - [Introduction to Application Security Certificate](Introduction%20to%20Application%20Security.pdf) - Learn the essentials of securing applications.
 
   - **Cyber Crime**
-    - [Introduction to Cyber Crime Certificate](Introduction%20to%20Cyber%20Crime.pdf) - Understanding Cybercrime and its effects.
+    - [Introduction to Cyber Crime Certificate](Introduction%20to%20Cyber%20Crime.pdf) - Understanding cybercrime and its effect.
+
+  - **Information Security**
+    - [Introduction to Information Security Certificate](Introduction%20to%20Information%20Security.pdf) - Gain insights into the basics of information security.
 
   <h3>Programming Certificates</h3>
   
