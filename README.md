@@ -61,14 +61,14 @@ I'm a high school student interested in Networking and Internet Technology. I ha
 
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=radical&text_color=ffffff&layout=compact&border_color=800080"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=radical&text_color=ffffff&layout=compact&border_color=800080&v=2"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=swift&layout=compact&border_color=000000"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=swift&layout=compact&border_color=000000&v=2"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=swift&layout=compact&border_color=000000" width="600" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=swift&layout=compact&border_color=000000&v=2" width="600" height="150" />
   </picture>
 </div>
 </div>
