@@ -143,5 +143,11 @@ This is my GitHub repository where you will see some of the projects I have work
     
   - **SEO Strategies**
     - [SEO Strategies Certificate](SEO%20Strategies.pdf) - Explore advanced SEO tactics.
+
+  <h3>Extra Curricular Activities</h3>
+  
+  - **Science Fair**
+    - [Science Fair Certificate](Science%20Fair.pdf) - Participation in the Science Fair at Bangladesh Elementary School in 2020.
+    
 </details>
 
