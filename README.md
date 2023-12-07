@@ -110,6 +110,10 @@ This is my GitHub repository where you will see some of the projects I have work
   
   <h3>Networking and Security Certificates</h3>
   
+  - **Network Technician Career Path**
+    - [Network Technician Career Path Certificate](/Network%20Technician%20Career%20Path%20Certificate.pdf) - Acquired from Cisco Skills For All. Topics include Application Layer Services, Binary Systems, Cisco Devices, Cisco IOS, Cisco Routers, Cisco Switches, Cloud Services, Copper and Fiber Cabling, Documentation, Endpoint Devices, Ethernet, Help Desk, Hierarchical Network Design, IPv4 Addressing, IPv6 Addressing, Network Layer Protocols, Network Media, Network Troubleshooting, Network Types, Protocols Standards, Support, Transport Layer Protocols, Troubleshooting, User Support, Wireless Access.
+
+  
   - **Computer Networking**
     - [Basics of Computer Network Certificate](/Basics%20of%20Networking.pdf) - Learn about the fundamentals of computer networking, protocols, and more.
 
