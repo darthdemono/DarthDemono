@@ -181,6 +181,6 @@ This is my GitHub repository where you will see some of the projects I have work
   
   - **Science Fair**
     - [Science Fair Certificate](Science%20Fair.pdf) - Participation in the Science Fair at Bangladesh Elementary School in 2020.
-      - Date Received: 1 March 2023
+      - Date Received: 1 March 2020
 
 </details>
