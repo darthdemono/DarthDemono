@@ -19,8 +19,8 @@ I'm a high school student interested in Networking and Internet Technology. I ha
 ## Cisco Badges
 
 <div style="display: flex;">
-  <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco Network Technician Career Path Badge" width="100px">
-  <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Cisco Network Technician Career Path Badge" width="100px">
+  <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco Network Technician Career Path Badge" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Cisco Network Technician Career Path Badge" width="150px">
 </div>
 
 ## Socials
