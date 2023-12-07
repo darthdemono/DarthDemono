@@ -112,52 +112,71 @@ This is my GitHub repository where you will see some of the projects I have work
   
   - **Network Technician Career Path**
     - [Network Technician Career Path Certificate](/Network%20Technician%20Career%20Path%20Certificate.pdf) - Acquired from Cisco Skills For All. Topics include Application Layer Services, Binary Systems, Cisco Devices, Cisco IOS, Cisco Routers, Cisco Switches, Cloud Services, Copper and Fiber Cabling, Documentation, Endpoint Devices, Ethernet, Help Desk, Hierarchical Network Design, IPv4 Addressing, IPv6 Addressing, Network Layer Protocols, Network Media, Network Troubleshooting, Network Types, Protocols Standards, Support, Transport Layer Protocols, Troubleshooting, User Support, Wireless Access.
+      - Date Received: 07 December 2023
 
   
   - **Computer Networking**
     - [Basics of Computer Network Certificate](/Basics%20of%20Networking.pdf) - Learn about the fundamentals of computer networking, protocols, and more.
+      - Date Received: 21 November 2023
 
   - **Network Security**
     - [Types of Network Security Certificate](/Types%20of%20Network%20Security.pdf) - Explore various types of network security measures.
+      - Date Received: 21 November 2023
     - [Network Security Certificate](/Network%20Security.pdf) - Gain expertise in network security practices.
+      - Date Received: 22 November 2023
 
   - **Firewall**
     - [Introduction to Firewall Certificate](Introduction%20to%20Firewall.pdf) - Understand the basics of firewalls and their role in network security.
+      - Date Received: 25 November 2023
 
   - **Cryptography**
     - [Introduction to Cryptography Certificate](Introduction%20to%20Cryptography.pdf) - Delve into the principles of cryptography and encryption.
+      - Date Received: 27 November 2023
 
   - **Application Security**
     - [Introduction to Application Security Certificate](Introduction%20to%20Application%20Security.pdf) - Learn the essentials of securing applications.
+      - Date Received: 27 November 2023
 
   - **Cyber Crime**
     - [Introduction to Cyber Crime Certificate](Introduction%20to%20Cyber%20Crime.pdf) - Understanding cybercrime and its effect.
+      - Date Received: 28 November 2023
 
   - **Information Security**
     - [Introduction to Information Security Certificate](Introduction%20to%20Information%20Security.pdf) - Gain insights into the basics of information security.
+      - Date Received: 28 November 2023
 
   <h3>Programming Certificates</h3>
   
   - **C**
     - [C for Beginners Certificate](C%20for%20beginners.pdf) - Master the basics of programming with the C language.
+      - Date Received: 23 November 2023
 
   <h3>Web Development Certificates</h3>
   
   - **HTML**
     - [Front End Development - HTML Certificate](Front%20End%20Development%20-%20HTML.pdf) - Develop skills in HTML for web development.
+      - Date Received: 27 November 2023
+
+  <h3>English</h3>
+  
+  - **Spoken English**
+    - [Spoken English Certificate](Spoken%20English.pdf) - Certification for completing a Spoken English course.
+      - Date Received: 07 December 2023
 
   <h3>SEO Certificates</h3>
   
   - **SEO For Beginners**
     - [SEO For Beginners Certificate](SEO%20For%20Beginners.pdf) - Learn foundational SEO strategies.
+      - Date Received: 25 November 2023
     
   - **SEO Strategies**
     - [SEO Strategies Certificate](SEO%20Strategies.pdf) - Explore advanced SEO tactics.
+      - Date Received: 27 November 2023
 
   <h3>Extra Curricular Activities</h3>
   
   - **Science Fair**
     - [Science Fair Certificate](Science%20Fair.pdf) - Participation in the Science Fair at Bangladesh Elementary School in 2020.
-    
-</details>
+      - Date Received: 1 March 2023
 
+</details>
