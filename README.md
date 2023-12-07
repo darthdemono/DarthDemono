@@ -16,6 +16,12 @@ I'm a high school student interested in Networking and Internet Technology. I ha
   <img src="https://img.shields.io/badge/-C-001633?style=for-the-badge&logo=c" alt="C Badge">
 </div>
 
+## Cisco Badges
+
+<div style="display: flex;">
+  <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco Network Technician Career Path Badge" width="100px">
+</div>
+
 ## Socials
 
 <div class="socialmedia-btns">
