@@ -177,6 +177,7 @@ This is my GitHub repository where you will see some of the projects I have work
   
   - **Spoken English**
     - [Spoken English Certificate](Spoken%20English.pdf) - Certification for completing a Spoken English course.
+      - Issued By; Great Learning
       - Date Received: 07 December 2023
 
   <h3>SEO Certificates</h3>
