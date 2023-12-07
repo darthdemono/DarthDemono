@@ -20,6 +20,7 @@ I'm a high school student interested in Networking and Internet Technology. I ha
 
 <div style="display: flex;">
   <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco Network Technician Career Path Badge" width="100px">
+  <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Cisco Network Technician Career Path Badge" width="100px">
 </div>
 
 ## Socials
@@ -110,10 +111,13 @@ This is my GitHub repository where you will see some of the projects I have work
   
   <h3>Networking and Security Certificates</h3>
   
-  - **Network Technician Career Path**
-    - [Network Technician Career Path Certificate](/Network%20Technician%20Career%20Path%20Certificate.pdf) - Acquired from Cisco Skills For All. Topics include Application Layer Services, Binary Systems, Cisco Devices, Cisco IOS, Cisco Routers, Cisco Switches, Cloud Services, Copper and Fiber Cabling, Documentation, Endpoint Devices, Ethernet, Help Desk, Hierarchical Network Design, IPv4 Addressing, IPv6 Addressing, Network Layer Protocols, Network Media, Network Troubleshooting, Network Types, Protocols Standards, Support, Transport Layer Protocols, Troubleshooting, User Support, Wireless Access.
+  - **Network Technician Career Path by Cisco**
+    - [Network Technician Career Path Certificate](/Network%20Technician%20Career%20Path%20Certificate.pdf) - Acquired from Cisco Skills For All. Topics include Application Layer Services, Binary Systems, Cisco Devices, Cisco IOS, Cisco Routers, Cisco Switches, Cloud Services, Copper and Fiber Cabling, Documentation, Endpoint Devices, Ethernet, Help Desk, Hierarchical Network Design, IPv4 Addressing, IPv6 Addressing, Network Layer Protocols, Network Media, Network Troubleshooting, Network Types, Protocols Standards, Support, Transport Layer Protocols, Troubleshooting, User Support and Wireless Access.
       - Date Received: 07 December 2023
 
+  - **Network Support and Security by Cisco**
+    - [Network Support and Security Certificate](/Network%20Support%20and%20Security.pdf) - Acquired from Cisco Skills For All. Topics include Reading Documentation, Endpoint Devices, Help Desk, Network Troubleshooting, Support and User Support.
+      - Date Received: 08 December 2023
   
   - **Computer Networking**
     - [Basics of Computer Network Certificate](/Basics%20of%20Networking.pdf) - Learn about the fundamentals of computer networking, protocols, and more.
