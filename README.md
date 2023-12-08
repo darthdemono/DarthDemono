@@ -43,42 +43,9 @@ I'm a high school student interested in Networking and Internet Technology. I ha
 ## Statistics
 
 <div align="center">
-  <picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=darthdemono&show_icons=true&theme=radical&text_color=ffffff&border_color=800080&custom_title=GitHub+Stats"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=darthdemono&show_icons=true&theme=swift&border_color=000000&custom_title=GitHub+Stats"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=darthdemono&show_icons=true&theme=swift&border_color=000000&custom_title=GitHub+Stats"/>
-  </picture>
-
-  <picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=darthdemono&layout=compact&theme=radical&text_color=ffffff&border_color=800080&custom_title=Most+Active+Languages"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=darthdemono&layout=compact&theme=swift&border_color=000000&custom_title=Most+Active+Languages"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darthdemono&layout=compact&theme=swift&border_color=000000&custom_title=Most+Active+Languages"  width=413/>
-  </picture>
-
-  <picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=radical&text_color=ffffff&layout=compact&border_color=800080&v=2"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=swift&layout=compact&border_color=000000&v=2"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=swift&layout=compact&border_color=000000&v=2" width="600" height="150" />
-  </picture>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=darthdemono&show_icons=true&theme=radical&text_color=ffffff&border_color=800080&custom_title=GitHub+Stats" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darthdemono&layout=compact&theme=radical&text_color=ffffff&border_color=800080&custom_title=Most+Active+Languages" width=413 alt="Most Active Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=radical&text_color=ffffff&layout=compact&border_color=800080&v=2" width="600" height="150" alt="Wakatime Stats"/>
 </div>
 
 ### Projects
