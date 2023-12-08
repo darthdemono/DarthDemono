@@ -15,7 +15,14 @@ Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school stude
   <img src="https://img.shields.io/badge/-Windows-001633?style=for-the-badge&logo=Windows" alt="Windows Badge">
   <img src="https://img.shields.io/badge/-CMD-001633?style=for-the-badge&logo=windowsterminal" alt="CMD Badge">
   <img src="https://img.shields.io/badge/-C-001633?style=for-the-badge&logo=c" alt="C Badge">
+  <img src="https://img.shields.io/badge/-Cisco-001633?style=for-the-badge&logo=Cisco" alt="Cisco">
+  <img src="https://img.shields.io/badge/-Spotify-001633?style=for-the-badge&logo=Spotify" alt="Spotify">
+  <img src="https://img.shields.io/badge/-openwrt-001633?style=for-the-badge&logo=openwrt" alt="OpenWRT">
+  <img src="https://img.shields.io/badge/-Google-001633?style=for-the-badge&logo=Google" alt="Google">
+  <img src="https://img.shields.io/badge/-dotenv-001633?style=for-the-badge&logo=dotenv" alt="DotENV">
+  <img src="https://img.shields.io/badge/-musicbrainz-001633?style=for-the-badge&logo=musicbrainz" alt="MusicBrainz">
 </div>
+
 
 ## **Cisco** Badges
 
