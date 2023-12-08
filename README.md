@@ -16,12 +16,12 @@ I'm a high school student interested in Networking and Internet Technology. I ha
   <img src="https://img.shields.io/badge/-C-001633?style=for-the-badge&logo=c" alt="C Badge">
 </div>
 
-## Cisco Badges
+## **Cisco** Badges
 
 <div style="display: flex;">
-  <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco Network Technician Career Path Badge" width="150px">
-  <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Cisco Network Technician Career Path Badge" width="150px">
-  <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Cisco Network Technician Career Path Badge" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="**Cisco** Network Technician Career Path Badge" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="**Cisco** Network Technician Career Path Badge" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="**Cisco** Network Technician Career Path Badge" width="150px">
 </div>
 
 ## Socials
@@ -113,91 +113,91 @@ This is my GitHub repository where you will see some of the projects I have work
   <h3>Networking and Security Certificates</h3>
   
   - **Network Technician Career Path**
-    - [Network Technician Career Path Certificate](/Network%20Technician%20Career%20Path%20Certificate.pdf) - Topics include Application Layer Services, Binary Systems, Cisco Devices, Cisco IOS, Cisco Routers, Cisco Switches, Cloud Services, Copper and Fiber Cabling, Documentation, Endpoint Devices, Ethernet, Help Desk, Hierarchical Network Design, IPv4 Addressing, IPv6 Addressing, Network Layer Protocols, Network Media, Network Troubleshooting, Network Types, Protocols Standards, Support, Transport Layer Protocols, Troubleshooting, User Support and Wireless Access.
-      - Issued By: Cisco
+    - [Network Technician Career Path Certificate](/Network%20Technician%20Career%20Path%20Certificate.pdf) - Topics include Application Layer Services, Binary Systems, Cloud Services, Copper and Fiber Cabling, Documentation, Endpoint Devices, Ethernet, Help Desk, Hierarchical Network Design, IPv4 Addressing, IPv6 Addressing, Network Layer Protocols, Network Media, Network Troubleshooting, Network Types, Protocols Standards, Support, Transport Layer Protocols, Troubleshooting, User Support and Wireless Access.
+      - Issued By: **Cisco**
       - Date Received: 07 December 2023
 
   - **Network Support and Security**
-    - [Network Support and Security Certificate](/Network%20Support%20and%20Security.pdf) - Acquired from Cisco Skills For All. Topics include Reading Documentation, Endpoint Devices, Help Desk, Network Troubleshooting, Support and User Support.
-      - Issued By: Cisco
+    - [Network Support and Security Certificate](/Network%20Support%20and%20Security.pdf) - Topics include Reading Documentation, Endpoint Devices, Help Desk, Network Troubleshooting, Support and User Support.
+      - Issued By: **Cisco**
       - Date Received: 08 December 2023
   
   - **Computer Networking**
     - [Basics of Computer Network Certificate](/Basics%20of%20Networking.pdf) - Learn about the fundamentals of computer networking, protocols, and more.
-      - Issued By: Great Learning
+      - Issued By: **Great Learning**
       - Date Received: 21 November 2023
 
   - **Network Security**
     - [Types of Network Security Certificate](/Types%20of%20Network%20Security.pdf) - Explore various types of network security measures.
-      - Issued By: Great Learning
+      - Issued By: **Great Learning**
       - Date Received: 21 November 2023
     - [Network Security Certificate](/Network%20Security.pdf) - Gain expertise in network security practices.
-      - Issued By: Great Learning
+      - Issued By: **Great Learning**
       - Date Received: 22 November 2023
 
   - **Firewall**
     - [Introduction to Firewall Certificate](Introduction%20to%20Firewall.pdf) - Understand the basics of firewalls and their role in network security.
-      - Issued By: Great Learning
+      - Issued By: **Great Learning**
       - Date Received: 25 November 2023
 
   - **Cryptography**
     - [Introduction to Cryptography Certificate](Introduction%20to%20Cryptography.pdf) - Delve into the principles of cryptography and encryption.
-      - Issued By: Great Learning
+      - Issued By: **Great Learning**
       - Date Received: 27 November 2023
 
   - **Application Security**
     - [Introduction to Application Security Certificate](Introduction%20to%20Application%20Security.pdf) - Learn the essentials of securing applications.
-      - Issued By: Great Learning
+      - Issued By: **Great Learning**
       - Date Received: 27 November 2023
 
   - **Cyber Crime**
     - [Introduction to Cyber Crime Certificate](Introduction%20to%20Cyber%20Crime.pdf) - Understanding cybercrime and its effect.
-      - Issued By: Great Learning
+      - Issued By: **Great Learning**
       - Date Received: 28 November 2023
 
   - **Information Security**
     - [Introduction to Information Security Certificate](Introduction%20to%20Information%20Security.pdf) - Gain insights into the basics of information security.
-      - Issued By: Great Learning
+      - Issued By: **Great Learning**
       - Date Received: 28 November 2023
 
   <h3>Computer Hardware Certificates</h3>
 
   - **Computer Hardware Basics**
     - [Computer Hardware Basics Certificate](Computer%20Hardware%20Basics.pdf) - Topics Include Installing Components for Personal Computers, Building, Repairing, or Upgrading Personal Computers, Describing Common Device Hardware, Preventive Maintenance for Personal Computers, Features and Functions of Laptops, Features and Functions of Mobile Devices, General Safety Standards, Fire Safety Standards.
-      - Issued By: Cisco
+      - Issued By: **Cisco**
       - Date Received: 8 December 2023
 
   <h3>Programming Certificates</h3>
   
   - **C**
     - [C for Beginners Certificate](C%20for%20beginners.pdf) - Master the basics of programming with the C language.
-      - Issued By: Great Learning
+      - Issued By: **Great Learning**
       - Date Received: 23 November 2023
 
   <h3>Web Development Certificates</h3>
   
   - **HTML**
     - [Front End Development - HTML Certificate](Front%20End%20Development%20-%20HTML.pdf) - Develop skills in HTML for web development.
-      - Issued By: Great Learning
+      - Issued By: **Great Learning**
       - Date Received: 27 November 2023
 
   <h3>English</h3>
   
   - **Spoken English**
     - [Spoken English Certificate](Spoken%20English.pdf) - Certification for completing a Spoken English course.
-      - Issued By; Great Learning
+      - Issued By; **Great Learning**
       - Date Received: 07 December 2023
 
   <h3>SEO Certificates</h3>
   
   - **SEO For Beginners**
     - [SEO For Beginners Certificate](SEO%20For%20Beginners.pdf) - Learn foundational SEO strategies.
-      - Issued By: Great Learning
+      - Issued By: **Great Learning**
       - Date Received: 25 November 2023
     
   - **SEO Strategies**
     - [SEO Strategies Certificate](SEO%20Strategies.pdf) - Explore advanced SEO tactics.
-      - Issued By: Great Learning
+      - Issued By: **Great Learning**
       - Date Received: 27 November 2023
 
   <h3>Extra Curricular Activities</h3>
