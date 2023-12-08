@@ -80,7 +80,7 @@ This is my GitHub repository where you will see some of the projects I have work
   <h3>Networking and Security Certificates</h3>
   
   - **Network Technician Career Path**
-    - [Network Technician Career Path Certificate](/Network%20Technician%20Career%20Path%20Certificate.pdf) - Topics include Application Layer Services, Binary Systems, Cloud Services, Copper and Fiber Cabling, Documentation, Endpoint Devices, Ethernet, Help Desk, Hierarchical Network Design, IPv4 Addressing, IPv6 Addressing, Network Layer Protocols, Network Media, Network Troubleshooting, Network Types, Protocols Standards, Support, Transport Layer Protocols, Troubleshooting, User Support and Wireless Access.
+    - [Network Technician Career Path Certificate](/Network%20Technician%20Career%20Path.pdf) - Topics include Application Layer Services, Binary Systems, Cloud Services, Copper and Fiber Cabling, Documentation, Endpoint Devices, Ethernet, Help Desk, Hierarchical Network Design, IPv4 Addressing, IPv6 Addressing, Network Layer Protocols, Network Media, Network Troubleshooting, Network Types, Protocols Standards, Support, Transport Layer Protocols, Troubleshooting, User Support and Wireless Access.
       - Issued By: **Cisco**
       - Date Received: 07 December 2023
 
