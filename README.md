@@ -54,7 +54,7 @@ Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school stude
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darthdemono&show_icons=true&theme=radical&text_color=ffffff&border_color=800080&custom_title=GitHub+Stats" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darthdemono&layout=compact&theme=radical&text_color=ffffff&border_color=800080&custom_title=Most+Active+Languages" width=413 alt="Most Active Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=radical&text_color=ffffff&layout=compact&border_color=800080&v=2" width="600" height="150" alt="Wakatime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=radical&text_color=ffffff&layout=compact&border_color=800080&v=2" alt="Wakatime Stats"/>
 </div>
 
 <h3>Projects</h3>
