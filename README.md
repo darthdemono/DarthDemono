@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Jubair Hasan (Joy) AKA DarthDemono
 
-Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school student passionate about Networking and Internet Technology, I've been actively engaged in programming since 2019. I hold a diverse set of certificates that showcase my expertise in various domains. In the field of Networking and Security, I have successfully completed the "Network Technician Career Path" and "Network Support and Security" certificates, both issued by Cisco. These certificates validate my proficiency in areas such as application layer services, cloud services, network troubleshooting, and user support. Additionally, I've earned certificates in Computer Hardware Basics from Cisco, Programming (specifically in C), Web Development (HTML), English (Spoken English), and SEO (both for beginners and advanced strategies), all accredited by Great Learning. Furthermore, I've delved into the realms of cryptography, firewall management, application security, cybercrime, and information security, earning recognition from Great Learning for each respective field. These achievements reflect my dedication to continuous learning and skill development across a broad spectrum of technological domains.
+Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school student passionate about Networking and Internet Technology, I've been actively engaged in programming since 2019. I hold a diverse set of certificates that showcase my expertise in various domains. In the field of Networking and Security, I have successfully completed the "Network Technician Career Path," "Network Support and Security," and "Networking Basics" certificates, all issued by Cisco. These certificates validate my proficiency in areas such as application layer services, cloud services, network troubleshooting, and user support. Additionally, I've earned certificates in Computer Hardware Basics from Cisco, Programming (specifically in C), Web Development (HTML), English (Spoken English), and SEO (both for beginners and advanced strategies), all accredited by Great Learning. Furthermore, I've delved into the realms of cryptography, firewall management, application security, cybercrime, and information security, earning recognition from Great Learning for each respective field. These achievements reflect my dedication to continuous learning and skill development across a broad spectrum of technological domains.
 
 
 ## Technologies I Know
@@ -28,8 +28,9 @@ Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school stude
 
 <div style="display: flex;">
   <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="**Cisco** Network Technician Career Path Badge" width="150px">
-  <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="**Cisco** Network Technician Career Path Badge" width="150px">
-  <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="**Cisco** Network Technician Career Path Badge" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="**Cisco** Network Support and Security" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="**Cisco** Computer Hardware Basics" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="**Cisco** Networking Basics" width="150px">
 </div>
 
 ## Socials
@@ -92,10 +93,16 @@ This is my GitHub repository where you will see some of the projects I have work
       - Issued By: **Cisco**
       - Date Received: 07 December 2023
 
+  - **Networking Basics**
+    - [Networking Basics Certificate](/Networking%20Basics.pdf) - Topics include Network Communication Concepts, Importance of Standards and Protocols, Ethernet Networks Communication, IP Address Features (IPv4), IPv6 Addressing, Routers and Network Connectivity, Network Testing and Troubleshooting, Configuration of Integrated Wireless Router, Wireless Client Configuration
+      - Issued By: **Cisco**
+      - Date Received: 11 December 2023
+
   - **Network Support and Security**
     - [Network Support and Security Certificate](/Network%20Support%20and%20Security.pdf) - Topics include Reading Documentation, Endpoint Devices, Help Desk, Network Troubleshooting, Support and User Support.
       - Issued By: **Cisco**
       - Date Received: 08 December 2023
+
   
   - **Computer Networking**
     - [Basics of Computer Network Certificate](/Basics%20of%20Networking.pdf) - Learn about the fundamentals of computer networking, protocols, and more.
