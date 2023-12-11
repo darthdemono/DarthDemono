@@ -1,9 +1,9 @@
-# 👋 Hello! I'm Jubair Hasan (Joy) AKA DarthDemono
-
+<h1>👋 Hello! I'm Jubair Hasan (Joy) AKA DarthDemono </h1>
+<p>
 Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school student passionate about Networking and Internet Technology, I've been actively engaged in programming since 2019. I hold a diverse set of certificates that showcase my expertise in various domains. In the field of Networking and Security, I have successfully completed the "Network Technician Career Path," "Network Support and Security," and "Networking Basics" certificates, all issued by Cisco. These certificates validate my proficiency in areas such as application layer services, cloud services, network troubleshooting, and user support. Additionally, I've earned certificates in Computer Hardware Basics from Cisco, Programming (specifically in C), Web Development (HTML), English (Spoken English), and SEO (both for beginners and advanced strategies), all accredited by Great Learning. Furthermore, I've delved into the realms of cryptography, firewall management, application security, cybercrime, and information security, earning recognition from Great Learning for each respective field. These achievements reflect my dedication to continuous learning and skill development across a broad spectrum of technological domains.
+</p>
 
-
-## Technologies I Know
+<h2>Technologies I Know</h2>
 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/-StackOverflow-001633?style=for-the-badge&logo=stackoverflow" alt="StackOverflow Badge">
@@ -24,16 +24,16 @@ Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school stude
 </div>
 
 
-## **Cisco** Badges
+<h2><strong>Cisco</strong> Badges</h2>
 
 <div style="display: flex;">
-  <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="**Cisco** Network Technician Career Path Badge" width="150px">
-  <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="**Cisco** Network Support and Security" width="150px">
-  <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="**Cisco** Computer Hardware Basics" width="150px">
-  <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="**Cisco** Networking Basics" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco Network Technician Career Path Badge" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Cisco Network Support and Security" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Cisco Computer Hardware Basics" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Networking Basics" width="150px">
 </div>
 
-## Socials
+<h2>Socials</h2>
 
 <div class="socialmedia-btns">
   <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="My Instagram" href="https://instagram.com/darthdemono/" class="url u-url">
@@ -49,7 +49,7 @@ Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school stude
   </a>
 </div>
 
-## Statistics
+<h2>Statistics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darthdemono&show_icons=true&theme=radical&text_color=ffffff&border_color=800080&custom_title=GitHub+Stats" alt="GitHub Stats"/>
@@ -57,31 +57,52 @@ Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school stude
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=radical&text_color=ffffff&layout=compact&border_color=800080&v=2" width="600" height="150" alt="Wakatime Stats"/>
 </div>
 
-### Projects
+<h3>Projects</h3>
 
-This is my GitHub repository where you will see some of the projects I have worked on: 
+<p>This is my GitHub repository where you will see some of the projects I have worked on: </p>
 
-<details>
-  <summary><h3>Spotipython</h3></summary>
-  
-  <h3>Spotipython - Fetch Spotify Track and Album Data</h3>
-
-  - **Description:** An open-source project for fetching Spotify track and album data programmatically using Python and the Spotify API.
-
-  - **GitHub Repository:** [Spotipython](https://github.com/darthdemono/Spotipython)
-
-  - **Scripts:**
-    - **[spotify_album.py](https://github.com/darthdemono/Spotipython/blob/main/spotify_album.py):** Fetches information about a Spotify album and its tracks.
-    - **[spotify_search.py](https://github.com/darthdemono/Spotipython/blob/main/spotify_search.py):** Searches for tracks on Spotify based on user input.
-    - **[spotify_client.py](https://github.com/darthdemono/Spotipython/blob/main/spotify_client.py):** Defines a SpotifyAPI class for handling authentication and making requests to the Spotify API.
-    - **[functions.py](https://github.com/darthdemono/Spotipython/blob/main/functions.py):** Contains utility functions used in other files.
-
-  - **How to Use:**
-    - Given in the Project's [README.md](https://github.com/darthdemono/Spotipython/blob/main/README.md) file
-
+<details open="">
+  <summary>
+    <h3 dir="auto">Spotipython</h3>
+  </summary>
+  <h3 dir="auto">Spotipython - Fetch Spotify Track and Album Data</h3>
+  <ul dir="auto">
+    <li>
+      <p dir="auto"><strong>Description:</strong> An open-source project for fetching
+        Spotify track and album data programmatically using Python and the Spotify API.</p>
+    </li>
+    <li>
+      <p dir="auto"><strong>GitHub Repository:</strong> <a
+          href="https://github.com/darthdemono/Spotipython">Spotipython</a></p>
+    </li>
+    <li>
+      <p dir="auto"><strong>Scripts:</strong></p>
+      <ul dir="auto">
+        <li><strong><a
+              href="https://github.com/darthdemono/Spotipython/blob/main/spotify_album.py">spotify_album.py</a>:</strong>
+          Fetches information about a Spotify album and its tracks.</li>
+        <li><strong><a
+              href="https://github.com/darthdemono/Spotipython/blob/main/spotify_search.py">spotify_search.py</a>:</strong>
+          Searches for tracks on Spotify based on user input.</li>
+        <li><strong><a
+              href="https://github.com/darthdemono/Spotipython/blob/main/spotify_client.py">spotify_client.py</a>:</strong>
+          Defines a SpotifyAPI class for handling authentication and making requests to the Spotify API.</li>
+        <li><strong><a
+              href="https://github.com/darthdemono/Spotipython/blob/main/functions.py">functions.py</a>:</strong>
+          Contains utility functions used in other files.</li>
+      </ul>
+    </li>
+    <li>
+      <p dir="auto"><strong>How to Use:</strong></p>
+      <ul dir="auto">
+        <li>Given in the Project's <a
+            href="https://github.com/darthdemono/Spotipython/blob/main/README.md">README.md</a> file</li>
+      </ul>
+    </li>
+  </ul>
 </details>
 
-### My Certificates are given below: 
+<h3> My Certificates are given below: </h3>
 
 <details open="">
   <summary>
