@@ -110,252 +110,234 @@ Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school stude
       Certificates
     </h2>
   </summary>
-  <h3 dir="auto">Networking and Security Certificates</h3>
-  <ul dir="auto">
-    <li>
-      <p dir="auto"><strong>Network Technician Career Path</strong></p>
-      <ul dir="auto">
-        <li><a href="Network%20Technician%20Career%20Path.pdf">Network Technician
-            Career Path Certificate</a> - Topics include Application Layer Services, Binary Systems, Cloud Services,
-          Copper and Fiber Cabling, Documentation, Endpoint Devices, Ethernet, Help Desk, Hierarchical Network Design,
-          IPv4 Addressing, IPv6 Addressing, Network Layer Protocols, Network Media, Network Troubleshooting, Network
-          Types, Protocols Standards, Support, Transport Layer Protocols, Troubleshooting, User Support and Wireless
-          Access.
-          <ul dir="auto">
-            <li>Issued By: <strong>Cisco</strong></li>
-            <li>Date Received: 07 December 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p dir="auto"><strong>Networking Basics</strong></p>
-      <ul dir="auto">
-        <li><a href="Networking%20Basics.pdf">Networking Basics Certificate</a> -
+
+  <section>
+    <h3 dir="auto">Networking and Security Certificates</h3>
+    <ul>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Network Technician Career Path Certificate
+        </h4>
+        <a href="Network%20Technician%20Career%20Path.pdf" class="u-url">Network Technician Career Path Certificate</a> - Topics include Application Layer Services, BinarySystems, Cloud Services, Copper and Fiber Cabling, Documentation, Endpoint Devices, Ethernet, Help Desk, Hierarchical Network Design, IPv4 Addressing, IPv6 Addressing, Network Layer Protocols, Network Media, Network Troubleshooting, Network Types, Protocols Standards, Support, Transport Layer Protocols, Troubleshooting, User Support and Wireless Access.
+        <ul>
+          <li class="p-issuer">Cisco</li>
+          <li class="dt-received">Date Received: 07 December 2023</li>
+        </ul>
+      </li>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Networking Basics Certificate
+        </h4>
+        <a href="Networking%20Basics.pdf" class="u-url">Networking Basics Certificate</a> -
           Topics include Network Communication Concepts, Importance of Standards and Protocols, Ethernet Networks
           Communication, IP Address Features (IPv4), IPv6 Addressing, Routers and Network Connectivity, Network Testing
           and Troubleshooting, Configuration of Integrated Wireless Router, Wireless Client Configuration
-          <ul dir="auto">
-            <li>Issued By: <strong>Cisco</strong></li>
-            <li>Date Received: 11 December 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p dir="auto"><strong>Network Support and Security</strong></p>
-      <ul dir="auto">
-        <li><a href="Network%20Support%20and%20Security.pdf">Network Support and
-            Security Certificate</a> - Topics include Reading Documentation, Endpoint Devices, Help Desk, Network
+        <ul>
+          <li class="p-issuer">Cisco</li>
+          <li class="dt-received">Date Received: 11 December 2023</li>
+        </ul>
+      </li>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Network Support and Security Certificate
+        </h4>
+        <a href="Network%20Support%20and%20Security.pdf" class="u-url">Network Support and Security Certificate</a> - Topics include Reading Documentation, Endpoint Devices, Help Desk, Network
           Troubleshooting, Support and User Support.
-          <ul dir="auto">
-            <li>Issued By: <strong>Cisco</strong></li>
-            <li>Date Received: 08 December 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p dir="auto"><strong>Computer Networking</strong></p>
-      <ul dir="auto">
-        <li><a href="Basics%20of%20Networking.pdf">Basics of Computer Network
-            Certificate</a> - Learn about the fundamentals of computer networking, protocols, and more.
-          <ul dir="auto">
-            <li>Issued By: <strong>Great Learning</strong></li>
-            <li>Date Received: 21 November 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p dir="auto"><strong>Network Security</strong></p>
-      <ul dir="auto">
-        <li><a href="Types%20of%20Network%20Security.pdf">Types of
-            Network Security Certificate</a> - Explore various types of network security measures.
-          <ul dir="auto">
-            <li>Issued By: <strong>Great Learning</strong></li>
-            <li>Date Received: 21 November 2023</li>
-          </ul>
-        </li>
-        <li><a href="Network%20Security.pdf">Network Security
-            Certificate</a> - Gain expertise in network security practices.
-          <ul dir="auto">
-            <li>Issued By: <strong>Great Learning</strong></li>
-            <li>Date Received: 22 November 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p dir="auto"><strong>Firewall</strong></p>
-      <ul dir="auto">
-        <li><a href="Introduction%20to%20Firewall.pdf">Introduction to Firewall
-            Certificate</a> - Understand the basics of firewalls and their role in network security.
-          <ul dir="auto">
-            <li>Issued By: <strong>Great Learning</strong></li>
-            <li>Date Received: 25 November 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p dir="auto"><strong>Cryptography</strong></p>
-      <ul dir="auto">
-        <li><a href="Introduction%20to%20Cryptography.pdf">Introduction to
+        <ul>
+          <li class="p-issuer">Cisco</li>
+          <li class="dt-received">Date Received: 08 December 2023</li>
+        </ul>
+      </li>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Basics of Computer Network Certificate
+        </h4>
+        <a href="Basics%20of%20Networking.pdf" class="u-url">Basics of Computer Network Certificate</a> - Learn about the fundamentals of computer networking, protocols, and more.
+        <ul>
+          <li class="p-issuer">Great Learning</li>
+          <li class="dt-received">Date Received: 21 November 2023</li>
+        </ul>
+      </li>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Types of Network Security Certificate
+        </h4>
+        <a href="Types%20of%20Network%20Security.pdf" class="u-url">Types of Network Security Certificate</a> - Explore various types of network security measures.
+        <ul>
+          <li class="p-issuer">Great Learning</li>
+          <li class="dt-received">Date Received: 21 November 2023</li>
+        </ul>
+      </li>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Network Security Certificate
+        </h4>
+        <a href="Network%20Security.pdf" class="u-url">Network Security Certificate</a> - Gain expertise in network security practices.
+        <ul>
+          <li class="p-issuer">Great Learning</li>
+          <li class="dt-received">Date Received: 22 November 2023</li>
+        </ul>
+      </li>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Introduction to Firewall Certificate
+        </h4>
+        <a href="Introduction%20to%20Firewall.pdf" class="u-url">Introduction to Firewall Certificate</a> - Understand the basics of firewalls and their role in network security.
+        <ul>
+          <li class="p-issuer">Great Learning</li>
+          <li class="dt-received">Date Received: 25 November 2023</li>
+        </ul>
+      </li>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Introduction to Cryptography Certificate
+        </h4>
+        <a href="Introduction%20to%20Cryptography.pdf" class="u-url">Introduction to Cryptography Certificate</a> - Introduction to
             Cryptography Certificate</a> - Delve into the principles of cryptography and encryption.
-          <ul dir="auto">
-            <li>Issued By: <strong>Great Learning</strong></li>
-            <li>Date Received: 27 November 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p dir="auto"><strong>Application Security</strong></p>
-      <ul dir="auto">
-        <li><a href="Introduction%20to%20Application%20Security.pdf">Introduction
-            to
-            Application Security Certificate</a> - Learn the essentials of securing applications.
-          <ul dir="auto">
-            <li>Issued By: <strong>Great Learning</strong></li>
-            <li>Date Received: 27 November 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p dir="auto"><strong>Cyber Crime</strong></p>
-      <ul dir="auto">
-        <li><a href="Introduction%20to%20Cyber%20Crime.pdf">Introduction to
-            Cyber
-            Crime Certificate</a> - Understanding cybercrime and its effect.
-          <ul dir="auto">
-            <li>Issued By: <strong>Great Learning</strong></li>
-            <li>Date Received: 28 November 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p dir="auto"><strong>Information Security</strong></p>
-      <ul dir="auto">
-        <li><a href="Introduction%20to%20Information%20Security.pdf">Introduction
-            to
-            Information Security Certificate</a> - Gain insights into the basics of information security.
-          <ul dir="auto">
-            <li>Issued By: <strong>Great Learning</strong></li>
-            <li>Date Received: 28 November 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul>
-  <h3 dir="auto">Computer Hardware Certificates</h3>
-  <ul dir="auto">
-    <li><strong>Computer Hardware Basics</strong>
-      <ul dir="auto">
-        <li><a href="Computer%20Hardware%20Basics.pdf">Computer Hardware
-            Basics
-            Certificate</a> - Topics Include Installing Components for Personal Computers, Building, Repairing,
-          or
-          Upgrading Personal Computers, Describing Common Device Hardware, Preventive Maintenance for Personal
+        <ul>
+          <li class="p-issuer">Great Learning</li>
+          <li class="dt-received">Date Received: 27 November 2023</li>
+        </ul>
+      </li>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Introduction to Application Security Certificate
+        </h4>
+        <a href="Introduction%20to%20Application%20Security.pdf" class="u-url">Introduction to Application Security Certificate</a> - Learn the essentials of securing applications.
+        <ul>
+          <li class="p-issuer">Great Learning</li>
+          <li class="dt-received">Date Received: 27 November 2023</li>
+        </ul>
+      </li>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Introduction to Cyber Crime Certificate
+        </h4>
+        <a href="Introduction%20to%20Cyber%20Crime.pdf" class="u-url">Introduction to Cyber Crime Certificate</a> - Understanding cybercrime and its effect.
+        <ul>
+          <li class="p-issuer">Great Learning</li>
+          <li class="dt-received">Date Received: 28 November 2023</li>
+        </ul>
+      </li>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Introduction to Information Security Certificate
+        </h4>
+        <a href="Introduction%20to%20Information%20Security.pdf" class="u-url">Introduction to Information Security Certificate</a> - Gain insights into the basics of information security.
+        <ul>
+          <li class="p-issuer">Great Learning</li>
+          <li class="dt-received">Date Received: 28 November 2023</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h3 dir="auto">Computer Hardware Certificates</h3>
+    <ul>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Computer Hardware Basics Certificate
+        </h4>
+        <a href="Computer%20Hardware%20Basics.pdf" class="u-url">Computer Hardware Basics Certificate</a> - Topics Include Installing Components for Personal Computers, Building, Repairing, or Upgrading Personal Computers, Describing Common Device Hardware, Preventive Maintenance for Personal
           Computers, Features and Functions of Laptops, Features and Functions of Mobile Devices, General Safety
           Standards, Fire Safety Standards.
-          <ul dir="auto">
-            <li>Issued By: <strong>Cisco</strong></li>
-            <li>Date Received: 8 December 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul>
-  <h3 dir="auto">Programming Certificates</h3>
-  <ul dir="auto">
-    <li><strong>C</strong>
-      <ul dir="auto">
-        <li <a href="C%20for%20beginners.pdf">C for Beginners Certificate</a>
-          -
-          Master the basics of programming with the C language.
-          <ul dir="auto">
-            <li>Issued By: <strong>Great Learning</strong></li>
-            <li>Date Received: 23 November 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul>
-  <h3 dir="auto">Web Development Certificates</h3>
-  <ul dir="auto">
-    <li><strong>HTML</strong>
-      <ul dir="auto">
-        <li><a href="Front%20End%20Development%20-%20HTML.pdf">Front End
-            Development
-            - HTML Certificate</a> - Develop skills in HTML for web development.
-          <ul dir="auto">
-            <li>Issued By: <strong>Great Learning</strong></li>
-            <li>Date Received: 27 November 2023
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul>
-  <h3 dir="auto">English</h3>
-  <ul dir="auto">
-    <li><strong>Spoken English</strong>
-      <ul dir="auto">
-        <li><a href="Spoken%20English.pdf">Spoken English Certificate</a> -
-          Certification for completing a Spoken English course.
-          <ul dir="auto">
-            <li>Issued By; <strong>Great Learning</strong></li>
-            <li>Date Received: 07 December 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul>
-  <h3 dir="auto">SEO Certificates</h3>
-  <ul dir="auto">
-    <li>
-      <p dir="auto"><strong>SEO For Beginners</strong></p>
-      <ul dir="auto">
-        <li><a href="SEO%20For%20Beginners.pdf">SEO For Beginners
-            Certificate</a> -
-          Learn foundational SEO strategies.
-          <ul dir="auto">
-            <li>Issued By: <strong>Great Learning</strong></li>
-            <li>Date Received: 25 November 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p dir="auto"><strong>SEO Strategies</strong></p>
-      <ul dir="auto">
-        <li><a href="SEO%20Strategies.pdf">SEO Strategies Certificate</a> -
-          Explore
-          advanced SEO tactics.
-          <ul dir="auto">
-            <li>Issued By: <strong>Great Learning</strong></li>
-            <li>Date Received: 27 November 2023</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul>
-  <h3 dir="auto">Extra Curricular Activities</h3>
-  <ul dir="auto">
-    <li><strong>Science Fair</strong>
-      <ul dir="auto">
-        <li><a href="Science%20Fair.pdf">Science Fair Certificate</a> -
-          Participation
-          in the Science Fair at Bangladesh Elementary School in 2020.
-          <ul dir="auto">
-            <li>Issued By: Bangladesh Elementary School</li>
-            <li>Date Received: 1 March 2020</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul>
+        <ul>
+          <li class="p-issuer">Cisco</li>
+          <li class="dt-received">Date Received: 8 December 2023</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h3 dir="auto">Programming Certificates</h3>
+    <ul>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          C for Beginners Certificate
+        </h4>
+        <a href="C%20for%20beginners.pdf" class="u-url">C for Beginners Certificate</a> - Master the basics of programming with the C language.
+        <ul>
+          <li class="p-issuer">Great Learning</li>
+          <li class="dt-received">Date Received: 23 November 2023</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h3 dir="auto">Web Development Certificates</h3>
+    <ul>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Front End Development - HTML Certificate
+        </h4>
+        <a href="Front%20End%20Development%20-%20HTML.pdf" class="u-url">Front End Development - HTML Certificate</a> - Develop skills in HTML for web development.
+        <ul>
+          <li class="p-issuer">Great Learning</li>
+          <li class="dt-received">Date Received: 27 November 2023</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h3 dir="auto">English Certificates</h3>
+    <ul>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Spoken English Certificate
+        </h4>
+        <a href="Spoken%20English.pdf" class="u-url">Spoken English Certificate</a> - Certification for completing a Spoken English course.
+        <ul>
+          <li class="p-issuer">Great Learning</li>
+          <li class="dt-received">Date Received: 07 December 2023</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h3 dir="auto">SEO Certificates</h3>
+    <ul>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          SEO For Beginners Certificate
+        </h4>
+        <a href="SEO%20For%20Beginners.pdf" class="u-url">SEO For Beginners Certificate</a> - Learn foundational SEO strategies.
+        <ul>
+          <li class="p-issuer">Great Learning</li>
+          <li class="dt-received">Date Received: 25 November 2023</li>
+        </ul>
+      </li>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          SEO Strategies Certificate
+        </h4>
+        <a href="SEO%20Strategies.pdf" class="u-url">SEO Strategies Certificate</a> - Explore advanced SEO tactics.
+        <ul>
+          <li class="p-issuer">Great Learning</li>
+          <li class="dt-received">Date Received: 27 November 2023</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h3 dir="auto">Extra Curricular Activities</h3>
+    <ul>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Science Fair Certificate
+        </h4>
+        <a href="Science%20Fair.pdf" class="u-url">Science Fair Certificate</a> - Participation in the Science Fair at Bangladesh Elementary School in 2020.
+        <ul>
+          <li class="p-issuer">Bangladesh Elementary School</li>
+          <li class="dt-received">Date Received: 1 March 2020</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
 </details>
