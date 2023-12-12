@@ -31,7 +31,8 @@ Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school stude
   <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Cisco Network Support and Security" width="150px">
   <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Cisco Computer Hardware Basics" width="150px">
   <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Networking Basics" width="150px">
-  <img src="https://images.credly.com/size/340x340/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Intoducction to IOT" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Intoduction to Cybersecurity" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Intoduction to IOT" width="150px">
 </div>
 
 <h2>Socials</h2>
@@ -149,6 +150,16 @@ Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school stude
           <li class="dt-received">Date Received: 08 December 2023</li>
         </ul>
       </li>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Introduction to Cybersecurity Certificate
+        </h4>
+        <a href="Introduction%20to%20Cyberecurity.pdf" class="u-url">Introduction to Cybersecurity Certificate</a> - Topics Include Cybersecurity and Potential Impacts, Most Common Cyber Threats, Attacks and Vulnerabilities, Protect oneself online, How Organization protect themselves from this attacks, Explore Different Career Options in Cyber Security
+        <ul>
+          <li class="p-issuer">Cisco</li>
+          <li class="dt-received">Date Received: 12 December 2023</li>
+        </ul>
+      </li>      
       <li class="h-certificate">
         <h4 class="p-name">
           Basics of Computer Network Certificate
