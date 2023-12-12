@@ -31,6 +31,7 @@ Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school stude
   <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Cisco Network Support and Security" width="150px">
   <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Cisco Computer Hardware Basics" width="150px">
   <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Networking Basics" width="150px">
+  <img src="https://images.credly.com/size/340x340/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Intoducction to IOT" width="150px">
 </div>
 
 <h2>Socials</h2>
@@ -231,7 +232,23 @@ Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school stude
       </li>
     </ul>
   </section>
-
+  
+  <section>
+    <h3 dir="auto">IOT(Internet of Things) Certificates</h3>
+    <ul>
+      <li class="h-certificate">
+        <h4 class="p-name">
+          Introduction to IOT Certificate
+        </h4>
+        <a href="Introduction%20to%20IOT.pdf" class="u-url">Introduction to IOT Certificate</a> - Topics Include Impact of IOT and Transformation in business and governments, Importance of Software and Data for digital business and society, Benefits of Artificial Intelligence and Digital Transformation, Intent Based Networking, Enhanced Security in Digitized World
+        <ul>
+          <li class="p-issuer">Cisco</li>
+          <li class="dt-received">Date Received: 12 December 2023</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+  
   <section>
     <h3 dir="auto">Computer Hardware Certificates</h3>
     <ul>
