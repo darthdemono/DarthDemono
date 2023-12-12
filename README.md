@@ -154,7 +154,7 @@ Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school stude
         <h4 class="p-name">
           Introduction to Cybersecurity Certificate
         </h4>
-        <a href="Introduction%20to%20Cyberecurity.pdf" class="u-url">Introduction to Cybersecurity Certificate</a> - Topics Include Cybersecurity and Potential Impacts, Most Common Cyber Threats, Attacks and Vulnerabilities, Protect oneself online, How Organization protect themselves from this attacks, Explore Different Career Options in Cyber Security
+        <a href="Introduction%20to%20Cybersecurity.pdf" class="u-url">Introduction to Cybersecurity Certificate</a> - Topics Include Cybersecurity and Potential Impacts, Most Common Cyber Threats, Attacks and Vulnerabilities, Protect oneself online, How Organization protect themselves from this attacks, Explore Different Career Options in Cyber Security
         <ul>
           <li class="p-issuer">Cisco</li>
           <li class="dt-received">Date Received: 12 December 2023</li>
