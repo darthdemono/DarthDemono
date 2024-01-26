@@ -1,6 +1,19 @@
 <h1>👋 Hello! I'm Jubair Hasan (Joy) AKA DarthDemono </h1>
 <p>
-Hello, I'm Jubair Hasan (Joy), also known as DarthDemono. As a high school student passionate about Networking and Internet Technology, I've been actively engaged in programming since 2019. I hold a diverse set of certificates that showcase my expertise in various domains. In the field of Networking and Security, I have successfully completed the "Network Technician Career Path," "Network Support and Security," and "Networking Basics" certificates, all issued by Cisco. These certificates validate my proficiency in areas such as application layer services, cloud services, network troubleshooting, and user support. Additionally, I've earned certificates in Computer Hardware Basics from Cisco, Programming (specifically in C), Web Development (HTML), English (Spoken English), and SEO (both for beginners and advanced strategies), all accredited by Great Learning. Furthermore, I've delved into the realms of cryptography, firewall management, application security, cybercrime, and information security, earning recognition from Great Learning for each respective field. These achievements reflect my dedication to continuous learning and skill development across a broad spectrum of technological domains.
+Greetings! I'm Jubair Hasan Joy, and my fascination with the world of Internet Technology has been ingrained in me since the very beginning of my life. In just a few short years, I transitioned from fiddling with small button phones and watching box televisions to diving into the realm of smartphones. My inquisitive nature led me to explore the realm of Internet Technology, and I vividly remember accidentally bricking my dad's Galaxy J7 while attempting to gain root access, resulting in a well-deserved punishment. In my early teens, I also fearlessly disassembled my computer down to its bare bones, driven by an insatiable curiosity.
+
+As the years passed, my knowledge expanded through platforms like YouTube, particularly channels such as Linus Tech Tips and Techquickie. My journey truly took off when I acquired a laptop in 2019, marking the commencement of my exploration into the tech world.
+
+My first foray into programming involved learning Python, with a significant project being the creation of my own Discord bot. Inspired by a bot in rSlash's server, I delved into loops and APIs, mastering the utilization of YouTube, Instagram, and Discord APIs. Despite initially coding in Notepad and IDLE, a significant upgrade to 12GB of RAM allowed me to embrace more robust tools like VS Code and Atom.
+
+Continuing my quest, I created and hosted a website on Github, experimenting with Microformats such as json-ld and vCards to enrich metadata. While my interest in this area eventually waned, a new passion emerged – curating a music library with meticulously inputted metadata using MusicBrainz. This journey culminated in the development of Spotipython, an early version that served its purpose, refined before its GitHub debut.
+
+The discovery of Networkchuck on YouTube ignited a love for networking, seamlessly tying into my interests in cybersecurity and ethical hacking. This realization prompted a focused pursuit of knowledge in networking.
+
+After overcoming numerous hurdles and completing various projects, I felt the need to validate my skills, leading me to pursue certificates. Presently, I proudly hold 39 from esteemed institutions like Cisco Networking Academy and Great Learning , showcasing my expertise in Networking, Network Security, Cyber Security, as well as proficiency in programming languages like Python, C, and Javascript. Additionally, I possess skills in Web Development (HTML, CSS, PHP), Digital Marketing (SEO, SEM, Social Media Marketing), and actively participate in extracurricular activities like Science Fairs.
+
+As a distinguished alumnus of Bangladesh Elementary School , I graduated with a perfect GPA of 5.00 in SSC in 2022. Currently, I continue my academic journey at Halishahar Cantonment Public School & College .
+
 </p>
 
 <h2>Technologies I Know</h2>
