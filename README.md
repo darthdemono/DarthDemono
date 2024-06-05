@@ -80,6 +80,49 @@ As a distinguished alumnus of Bangladesh Elementary School , I graduated with a 
   <summary>
     <h3 dir="auto">Spotipython</h3>
   </summary>
+  <h3 dir="auto">Spotipython - Fetch Spotify Track and Album Data</h3>
+  <ul dir="auto">
+    <li>
+      <p dir="auto"><strong>Description:</strong> An open-source project for fetching
+        Spotify track and album data programmatically using Python and the Spotify API.</p>
+    </li>
+    <li>
+      <p dir="auto"><strong>GitHub Repository:</strong> <a
+          href="https://github.com/darthdemono/Spotipython">Spotipython</a></p>
+    </li>
+    <li>
+      <p dir="auto"><strong>Scripts:</strong></p>
+      <ul dir="auto">
+        <li><strong><a
+              href="https://github.com/darthdemono/Spotipython/blob/main/spotify_album.py">spotify_album.py</a>:</strong>
+          Fetches information about a Spotify album and its tracks.</li>
+        <li><strong><a
+              href="https://github.com/darthdemono/Spotipython/blob/main/spotify_search.py">spotify_search.py</a>:</strong>
+          Searches for tracks on Spotify based on user input.</li>
+        <li><strong><a
+              href="https://github.com/darthdemono/Spotipython/blob/main/spotify_client.py">spotify_client.py</a>:</strong>
+          Defines a SpotifyAPI class for handling authentication and making requests to the Spotify API.</li>
+        <li><strong><a
+              href="https://github.com/darthdemono/Spotipython/blob/main/functions.py">functions.py</a>:</strong>
+          Contains utility functions used in other files.</li>
+      </ul>
+    </li>
+    <li>
+      <p dir="auto"><strong>How to Use:</strong></p>
+      <ul dir="auto">
+        <li>Given in the Project's <a
+            href="https://github.com/darthdemono/Spotipython/blob/main/README.md">README.md</a> file</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details open="">
+  <summary>
+    <h2 dir="auto">
+      Certificates
+    </h2>
+  </summary>
   <section>
     <h3 dir="auto">Certifications</h3>
     <ul>
