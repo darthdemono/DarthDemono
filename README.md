@@ -10,10 +10,9 @@ Continuing my quest, I created and hosted a website on Github, experimenting wit
 
 The discovery of Networkchuck on YouTube ignited a love for networking, seamlessly tying into my interests in cybersecurity and ethical hacking. This realization prompted a focused pursuit of knowledge in networking.
 
-After overcoming numerous hurdles and completing various projects, I felt the need to validate my skills, leading me to pursue certificates. Presently, I proudly hold 39 from esteemed institutions like Cisco Networking Academy and Great Learning , showcasing my expertise in Networking, Network Security, Cyber Security, as well as proficiency in programming languages like Python, C, and Javascript. Additionally, I possess skills in Web Development (HTML, CSS, PHP), Digital Marketing (SEO, SEM, Social Media Marketing), and actively participate in extracurricular activities like Science Fairs.
+After overcoming numerous hurdles and completing various projects, I felt the need to validate my skills, leading me to pursue certificates. Presently, I proudly hold 45 from esteemed institutions like Cisco Networking Academy and Great Learning , showcasing my expertise in Networking, Network Security, Cyber Security, as well as proficiency in programming languages like Python, C, and Javascript. Additionally, I possess skills in Web Development (HTML, CSS, PHP), Digital Marketing (SEO, SEM, Social Media Marketing), and actively participate in extracurricular activities like Science Fairs.
 
-As a distinguished alumnus of Bangladesh Elementary School , I graduated with a perfect GPA of 5.00 in SSC in 2022. Currently, I continue my academic journey at Halishahar Cantonment Public School & College .
-
+As a distinguished alumnus of Bangladesh Elementary School , I graduated with a perfect GPA of 5.00 in SSC in 2022. Currently, I continue my academic journey at Halishahar Cantonment Public School & College . Currently, I'm contributing as a Content Marketer and Web Developer at Agamir Hashi . Furthermore, I am a Fortinet Certified Associate, which adds to my comprehensive skill set and solidifies my expertise in cybersecurity.
 </p>
 
 <h2>Technologies I Know</h2>
