@@ -122,370 +122,694 @@ As a distinguished alumnus of Bangladesh Elementary School , I graduated with a 
       Certificates
     </h2>
   </summary>
-  <section>
-    <h3 dir="auto">Certifications</h3>
-    <ul>
-      <li class="h-certificate">
-        <h4 class="p-name">Fortinet Certified Associate in Cybersecurity</h4>
-        <a href="/PDF/Fortinet%20Certified%20Associate%20in%20Cybersecurity.pdf" class="u-url">Fortinet Certified Associate in Cybersecurity Certificate</a> - Introduction to Fortinet and FortiGate, Introduction to FortiGate and FortiOS, Basic Configuration, Operation and Day-to-Day Administration, Antivirus Protection, Application Control, Authentication, Cybersecurity Fundamentals, Firewall Configuration, Intrusion Prevention Systems (IPS), Intrusion Detection Systems (IDS), SSL Inspection, Virtual Private Networks (VPN), Web Filtering, Fortinet Security Fabric, FortiGate Devices, Security Policies, IPSec VPNs, NAT (Network Address Translation), FortiGuard Services, Logging and Monitoring, Fortinet NSE Certification, Cybersecurity Best Practices, Incident Response, Vulnerability Management, Compliance (PCI DSS, SOC 2), FortiOS Management, Fortinet Analytics, Cloud Security, Advanced Threat Detection at <a href="https://training.fortinet.com" class="p-issuer">Fortinet Training Institute</a> in 18 May 2024.
-        <ul>
-          <li class="dt-received">Date Received: 18 May 2024</li>
-        </ul>
-      </li>
-    </ul>
-  </section>
-  <section>
-    <h3 dir="auto">Cybersecurity</h3>
-    <ul>
-      <li class="h-certificate">
-        <h4 class="p-name">Cybersecurity Fundamentals</h4>
-        <a href="/PDF/Cybersecurity%20Fundamentals.pdf" class="u-url">Cybersecurity Fundamentals Certificate</a> - Cyber threat groups, Types of attacks, Social engineering, Case studies in cybersecurity, Overall security strategies, Cryptography, Common approaches to prevent cyber attacks, Detecting cyber attacks, Responding to cyber attacks, Awareness of the cybersecurity job market, Cybersecurity concepts, Cybersecurity objectives, Cybersecurity practices, Cybersecurity processes, Cybersecurity risk management, Cyber threat analysis, Cyber threat intelligence, Incident response, Information security, Security strategies, Threat analysis, Threat detection, Vulnerability management, Network security fundamentals, Firewall configuration, Intrusion detection systems (IDS), Intrusion prevention systems (IPS), Endpoint security, Data encryption methods, Public key infrastructure (PKI), Security information and event management (SIEM), Compliance and regulatory requirements, Identity and access management (IAM), Ethical hacking and penetration testing, Disaster recovery planning, Business continuity planning, Security policy development at <a href="https://skillsbuild.org/" class="p-issuer">IBM SkillsBuild</a> in 17 May 2024.
-        <ul>
-          <li class="dt-received">Date Received: 17 May 2024</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Introduction to Cybersecurity</h4>
-        <a href="/PDF/Introduction%20to%20Cybersecurity.pdf" class="u-url">Introduction to Cybersecurity Certificate</a> - Cybersecurity and Potential Impacts, Most Common Cyber Threats, Attacks and Vulnerabilities, Protect oneself online, How Organization protect themselves from this attacks, Explore Different Career Options in Cyber Security at <a href="https://www.netacad.com/" class="p-issuer">Cisco Networking Academy</a> in 12 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 12 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Introduction to Firewall</h4>
-        <a href="/PDF/Introduction%20to%20Firewall.pdf" class="u-url">Introduction to Firewall Certificate</a> - Introduction to Firewall Concepts, Role of Firewalls in Network Security at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 25 November 2023.
-        <ul>
-          <li class="dt-received">Date Received: 25 November 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Introduction to Cryptography</h4>
-        <a href="/PDF/Introduction%20to%20Cryptography.pdf" class="u-url">Introduction to Cryptography Certificate</a> - Principles of Cryptography, Hands-on Experience with Encryption Techniques at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 27 November 2023.
-        <ul>
-          <li class="dt-received">Date Received: 27 November 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Introduction to Application Security</h4>
-        <a href="/PDF/Introduction%20to%20Application%20Security.pdf" class="u-url">Introduction to Application Security Certificate</a> - Essentials of Securing Applications, Best Practices in Application Security at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 27 November 2023.
-        <ul>
-          <li class="dt-received">Date Received: 27 November 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Introduction to Cyber Crime</h4>
-        <a href="/PDF/Introduction%20to%20Cyber%20Crime.pdf" class="u-url">Introduction to Cyber Crime Certificate</a> - Understanding the Landscape of Cybercrime, Analyzing the Impact of Cybercrime at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 28 November 2023.
-        <ul>
-          <li class="dt-received">Date Received: 28 November 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Introduction to Information Security</h4>
-        <a href="/PDF/Introduction%20to%20Information%20Security.pdf" class="u-url">Introduction to Information Security Certificate</a> - Fundamentals of Information Security, Best Practices in Information Security at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 28 November 2023.
-        <ul>
-          <li class="dt-received">Date Received: 28 November 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Introduction to Asset Security</h4>
-        <a href="/PDF/Introduction%20to%20Asset%20Security.pdf" class="u-url">Introduction to Asset Security Certificate</a> - Data Types, Classification and States, Roles and Responsibilities of CEO, CFO, CBO, Information Life Cycle, Information and Information System Security Objectives at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 19 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 19 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Cyber Security For Leadership</h4>
-        <a href="/PDF/Cyber%20Security%20For%20Leadership.pdf" class="u-url">Cyber Security For Leadership Certificate</a> - Why is Cybersecurity important?, Cyber attacks and threats, Cybersecurity Strategy, Threat Agents, Cyber Kill Chain, Cybersecurity in an Organization at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 21 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 21 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Network Attacks in Cyber Security</h4>
-        <a href="/PDF/Network%20Attacks%20in%20Cyber%20Security.pdf" class="u-url">Network Attacks in Cyber Security Certificate</a> - Spidering, DIRB, NMAP and GoBuster, Enumeration, Non standard Ports and Virtual Host, Identifying Server Side Technology at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 22 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 22 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Common Malware Attacks</h4>
-        <a href="/PDF/Common%20Malware%20Attacks.pdf" class="u-url">Common Malware Attacks Certificate</a> - Malware, Unrestricted File Uploads, Remote Code Execution, Web Malware Attack, Web Malware Attack Stages at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 22 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 22 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Introduction to Cyber Attacks</h4>
-        <a href="/PDF/Introduction%20to%20Cyber%20Attacks.pdf" class="u-url">Introduction to Cyber Attacks Certificate</a> - Spidering, DIRB, NMAP and GoBuster, Enumeration, Non standard Ports and Virtual Host, Identifying Server Side Technology, Malware, Unrestricted File Uploads, Remote Code Execution, Web Malware Attack, Web Malware Attack Stages, SQl Injection, Command Injection at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 22 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 22 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Encryption Basics</h4>
-        <a href="/PDF/Encryption%20Basics.pdf" class="u-url">Encryption Basics Certificate</a> - Cryptography, Encryption, Decryption, Types of Encryption, Encryption Algorithms and Protocols, Brute Force Attacks, Assymetric Encryption, Symetric Encryption, AES, RSA at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 22 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 22 December 2023</li>
-        </ul>
-      </li>
-    </ul>
-  </section>
-  <section>
-    <h3 dir="auto">Networking and Security Certificates</h3>
-    <ul>
-      <li class="h-certificate">
-        <h4 class="p-name">Network Technician Career Path</h4>
-        <a href="/PDF/Network%20Technician%20Career%20Path.pdf" class="u-url">Network Technician Career Path Certificate</a> - Understanding Application Layer Services, Exploring Binary Systems, Configuring Cisco Devices, Working with Cisco IOS, Configuring Cisco Routers and Switches, Introduction to Cloud Services, Implementing Copper and Fiber Cabling, Documentation Best Practices, Managing Endpoint Devices, Understanding Ethernet Protocols, Providing Help Desk Support, Implementing Hierarchical Network Design, IP Addressing (IPv4 and IPv6), Protocols at the Network Layer, Media Types in a Network, Troubleshooting Network Issues, Exploring Different Network Types, Understanding Protocols and Standards, User Support Techniques, Introduction to Transport Layer Protocols, Advanced Troubleshooting Methods, Wireless Access Technologies at <a href="https://www.netacad.com/" class="p-issuer">Cisco Networking Academy</a> in 07 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 07 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Network Support and Security</h4>
-        <a href="/PDF/Network%20Support%20and%20Security.pdf" class="u-url">Network Support and Security Certificate</a> - Effective Reading of Documentation, Endpoint Device Management, Providing Help Desk Support, Advanced Network Troubleshooting, Customer Support Strategies, User Support Best Practices at <a href="https://www.netacad.com/" class="p-issuer">Cisco Networking Academy</a> in 08 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 08 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Networking Basics</h4>
-        <a href="/PDF/Networking%20Basics.pdf" class="u-url">Networking Basics Certificate</a> - Network Communication Concepts, Importance of Standards and Protocols, Ethernet Networks Communication, IP Address Features (IPv4), IPv6 Addressing, Routers and Network Connectivity, Network Testing and Troubleshooting, Configuration of Integrated Wireless Router, Wireless Client Configuration at <a href="https://www.netacad.com/" class="p-issuer">Cisco Networking Academy</a> in 11 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 11 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Introduction to Internet of Things</h4>
-        <a href="/PDF/Introduction%20to%20Internet%20of%20Things.pdf" class="u-url">Introduction to Internet of Things Certificate</a> - Impact of IOT and Transformation in business and governments, Importance of Software and Data for digital business and society, Benefits of Artificial Intelligence and Digital Transformation, Intent Based Networking, Enhanced Security in Digitized World at <a href="https://www.netacad.com/" class="p-issuer">Cisco Networking Academy</a> in 12 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 12 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Basics of Computer Networking</h4>
-        <a href="/PDF/Basics%20of%20Computer%20Networking.pdf" class="u-url">Basics of Computer Networking Certificate</a> - Fundamentals of Computer Networking, Understanding Network Protocols at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 21 November 2023.
-        <ul>
-          <li class="dt-received">Date Received: 21 November 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Types of Network Security</h4>
-        <a href="/PDF/Types%20of%20Network%20Security.pdf" class="u-url">Types of Network Security Certificate</a> - Various Types of Network Security Measures, Expertise in Network Security Practices at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 21 November 2023.
-        <ul>
-          <li class="dt-received">Date Received: 21 November 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Network Security</h4>
-        <a href="/PDF/Network%20Security.pdf" class="u-url">Network Security Certificate</a> - Various Types of Network Security Measures, Expertise in Network Security Practices at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 22 November 2023.
-        <ul>
-          <li class="dt-received">Date Received: 22 November 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Cloud Networking With AWS VPC</h4>
-        <a href="/PDF/Cloud%20Networking%20With%20AWS%20VPC.pdf" class="u-url">Cloud Networking With AWS VPC Certificate</a> - Introduction to AWS and Networking Services, Understanding Amazon VPC, Understand Cloud Computing, Understanding Cloud Networking at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 24 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 24 December 2023</li>
-        </ul>
-      </li>
-    </ul>
-  </section>
-  <section>
-    <h3 dir="auto">Computer Basics</h3>
-    <ul>
-      <li class="h-certificate">
-        <h4 class="p-name">Computer Hardware Basics</h4>
-        <a href="/PDF/Computer%20Hardware%20Basics.pdf" class="u-url">Computer Hardware Basics Certificate</a> - Installing Components for Personal Computers, Building, Repairing, or Upgrading Personal Computers, Describing Common Device Hardware, Preventive Maintenance for Personal Computers, Features and Functions of Laptops, Features and Functions of Mobile Devices, General Safety Standards, Fire Safety Standards at <a href="https://www.netacad.com/" class="p-issuer">Cisco Networking Academy</a> in 08 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 08 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Operating Systems Basics</h4>
-        <a href="/PDF/Operating%20Systems%20Basics.pdf" class="u-url">Operating Systems Basics Certificate</a> - Purpose and characteristics of operating systems, Basic operating system security implementation, Configuration of mobile device network connectivity, Configuration of mobile device email, Android operating system fundamentals, iOS operating system fundamentals, Linux operating system fundamentals, Windows operating system fundamentals, File management basics, User management in operating systems, Network services and protocols, Operating system updates and patches, Troubleshooting common operating system issues at <a href="https://www.netacad.com/" class="p-issuer">Cisco Networking Academy</a> in 16 May 2024.
-        <ul>
-          <li class="dt-received">Date Received: 16 May 2024</li>
-        </ul>
-      </li>
-    </ul>
-  </section>
-  <section>
-    <h3 dir="auto">Programming Certificates</h3>
-    <ul>
-      <li class="h-certificate">
-        <h4 class="p-name">C for Beginners</h4>
-        <a href="/PDF/C%20for%20beginners.pdf" class="u-url">C for Beginners Certificate</a> - Basic Concepts of Programming, Syntax and Structure of the C Language, Introduction to Variables and Data Types, Control Flow and Looping Structures, Functions and Modular Programming at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 23 November 2023.
-        <ul>
-          <li class="dt-received">Date Received: 23 November 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">ChatGPT for Coders</h4>
-        <a href="/PDF/ChatGPT%20for%20Coders.pdf" class="u-url">ChatGPT for Coders Certificate</a> - ChatGPT, How to program with ChatGPT, How to interpret python with ChatGPT, How to debug with ChatGPT, Add Exception handling to code using ChatGPT, GPT 3.5 vs GPT 4, ChatGPT vs Github Copilot, Upload and Download programs and files with ChatGPT at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 8 February 2024.
-        <ul>
-          <li class="dt-received">Date Received: 8 February 2024</li>
-        </ul>
-      </li>
-    </ul>
-  </section>
-  <section>
-    <h3 dir="auto">Web Development Certificates</h3>
-    <ul>
-      <li class="h-certificate">
-        <h4 class="p-name">Front End Development - HTML</h4>
-        <a href="/PDF/Front%20End%20Development%20-%20HTML.pdf" class="u-url">Front End Development - HTML Certificate</a> - HTML Fundamentals, Structuring Web Documents, Working with Forms and Input Elements, Creating Hyperlinks and Navigation at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 27 November 2023.
-        <ul>
-          <li class="dt-received">Date Received: 27 November 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">HTML Tutorial</h4>
-        <a href="/PDF/HTML%20Tutorial.pdf" class="u-url">HTML Tutorial Certificate</a> - HTML Fundamentals, Structuring Web Documents, Working with Forms and Input Elements, Creating Hyperlinks and Navigation, HTML Table, HTML Tag Anatomy, HTML Links, HTML Attributes, Closing Tag, Element, Content at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 21 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 21 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">HTML Attributes and Tags</h4>
-        <a href="/PDF/HTML%20Attributes%20and%20Tags.pdf" class="u-url">HTML Attributes and Tags Certificate</a> - HTML Attributes, Closing Tag, Element, Content, HTML Anatomy at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 21 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 21 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">PHP for Beginners</h4>
-        <a href="/PDF/PHP%20for%20Beginners.pdf" class="u-url">PHP for Beginners Certificate</a> - PHP Fundamentals, PHP Variables and Variable Scope, Echo and Print Statements, Loops, Operators, Strings, Functions and Arrays at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 19 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 19 December 2023</li>
-        </ul>
-      </li>
-    </ul>
-  </section>
-  <section>
-    <h3 dir="auto">Language Certificates</h3>
-    <ul>
-      <li class="h-certificate">
-        <h4 class="p-name">EF Standard English Test</h4>
-        <a href="/PDF/EF%20Standard%20English%20Test.pdf" class="u-url">EF Standard English Test Certificate</a> - Can understand with ease virtually everything heard or read., Can summarize information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation., Can express him/herself spontaneously, very fluently and precisely, differentiating finer shades of meaning even in the most complex situations., Discuss issues related to science and technology, including robots and new inventions., Talk about celebrities, celebrity activism and gossip about celebrities., Use a variety of techniques for promoting creativity in your speech and writing., Discuss financial planning and give and understand advice about personal finance., Talk about stress in your life and the lives of friends and colleagues., Discuss techniques for doing research on a wide range of topics. at <a href="https://www.efset.org/" class="p-issuer">EF Standard English Test</a> in 24 January 2024.
-        <ul>
-          <li class="dt-received">Date Received: 24 January 2024</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">English for IT 1</h4>
-        <a href="/PDF/English%20for%20IT%201.pdf" class="u-url">English for IT 1 Certificate</a> - Adverbs, Compilers and Interpreters Vocabulary, Fraudulent Calls Vocabulary, Future Perfect, Idiomatic Phrases, Imperative Instruction, Information Security Policy, Inversion, Job Roles and Responsibilities, Modal Verbs, Network and Software Engineering Vocabulary, Passive Voice, Past Simple, Relative Pronouns, Supplier Evaluation Modules, User Experience Vocabulary at <a href="https://www.netacad.com/" class="p-issuer">Cisco Networking Academy</a> in 14 January 2024.
-        <ul>
-          <li class="dt-received">Date Received: 14 January 2024</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">English for IT 2</h4>
-        <a href="/PDF/English%20for%20IT%202.pdf" class="u-url">English for IT 2 Certificate</a> - Advanced Modal Verbs, Advanced Tenses, Cleft Sentences, Cloud Computing Vocabulary, Conjunction, Customer Support Vocabulary, Logical Deductions, Networking Vocabulary, Polite Requests, Sharing Feedback Vocabulary, Software Vocabulary, Subjunctive Mood, 'They' as singular, Updating Colleagues Vocabulary at <a href="https://www.netacad.com/" class="p-issuer">Cisco Networking Academy</a> in 14 January 2024.
-        <ul>
-          <li class="dt-received">Date Received: 14 January 2024</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Spoken English</h4>
-        <a href="/PDF/Spoken%20English.pdf" class="u-url">Spoken English Certificate</a> - Improving Spoken English Communication, Effective Communication Strategies at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 07 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 07 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Learn Business English</h4>
-        <a href="/PDF/Learn%20Business%20English.pdf" class="u-url">Learn Business English Certificate</a> - Writing Business Emails, Business Presentation, Attending Job Intervies, Buisness English for Negotiation, Buisness English, Commonly used acronyms in Buisness at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 21 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 21 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Letter Writing Fundamentals</h4>
-        <a href="/PDF/Letter%20Writing%20Fundamentals.pdf" class="u-url">Letter Writing Fundamentals Certificate</a> - What is the meaning of a Letter?, Why do we write letters?, What is the importance of letter writing skills?, What type of letter should you write?, What are the various types of letters?, Differentiate between Formal Letters and Informal Letters, Format of Formal and Informal Letters, Important tips for good letter writing, Some popular abbreviations used in formal letters, Various types of formal letters, MCQs related to Formal and Informal letters at <a href="https://www.udemy.com/" class="p-issuer">Udemy</a> in 27 May 2024.
-        <ul>
-          <li class="dt-received">Date Received: 27 May 2024</li>
-        </ul>
-      </li>
-    </ul>
-  </section>
-  <section>
-    <h3 dir="auto">Marketing Certificates</h3>
-    <ul>
-      <li class="h-certificate">
-        <h4 class="p-name">Introduction to Digital Marketing</h4>
-        <a href="/PDF/Introduction%20to%20Digital%20Marketing.pdf" class="u-url">Introduction to Digital Marketing Certificate</a> - What is Digital Marketing?, Why Digital Marketing?, How To Do Digital Marketing?, Types Of Digital Marketing, Content Marketing, SEO, SEM, Social Media Marketing, Automated Marketing, Affiliate Marketing, Pay per click, Public Relations, YouTube SEO Optimization at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 8 January 2024.
-        <ul>
-          <li class="dt-received">Date Received: 8 January 2024</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">SEO For Beginners</h4>
-        <a href="/PDF/SEO%20For%20Beginners.pdf" class="u-url">SEO For Beginners Certificate</a> - Introduction to Search Engine Optimization, Basic SEO Strategies, Keyword Research and Optimization at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 25 November 2023.
-        <ul>
-          <li class="dt-received">Date Received: 25 November 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">SEO Strategies</h4>
-        <a href="/PDF/SEO%20Strategies.pdf" class="u-url">SEO Strategies Certificate</a> - Advanced SEO Tactics, Link Building Strategies, SEO Analytics and Measurement at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 27 November 2023.
-        <ul>
-          <li class="dt-received">Date Received: 27 November 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Design App</h4>
-        <a href="/PDF/Design%20App.pdf" class="u-url">Design App Certificate</a> - Introduction to Designing an app, UX vs UI, UX Process, UX Tools at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 20 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 20 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Social Media Management</h4>
-        <a href="/PDF/Social%20Media%20Management.pdf" class="u-url">Social Media Management Certificate</a> - What is Social Media Management?, Why Practice Social Media Management, Top Social Networks for Social Media Management, Best Social Media Management Tools, How to get started with Social Media Management?, Why Invest in Social Media Management? at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 20 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 20 December 2023</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">UI / UX for Beginners</h4>
-        <a href="/PDF/UI%20UX%20for%20Beginners.pdf" class="u-url">UI / UX for Beginners Certificate</a> - Introduction to Designing an app or website, UX vs UI, UX Process, UX Tools, Wireframing at <a href="https://www.mygreatlearning.com/" class="p-issuer">Great Learning</a> in 24 December 2023.
-        <ul>
-          <li class="dt-received">Date Received: 24 December 2023</li>
-        </ul>
-      </li>
-    </ul>
-  </section>
-  <section>
-    <h3 dir="auto">Professional Development Certificates</h3>
-    <ul>
-      <li class="h-certificate">
-        <h4 class="p-name">Engaging Stakeholders for Success</h4>
-        <a href="/PDF/Engaging%20Stakeholders%20for%20Success.pdf" class="u-url">Engaging Stakeholders for Success Certificate</a> - Engaging Stakeholders, Defining Stakeholders, Value of Stakeholders, Stakeholder Classification, Stakeholder Analysis, Power-Interest Grid, Interviewing Stakeholders, Trust Building, Active Listening, Interview Techniques, Effective Relationships, Communication Strategies, Project Management, Adapting Communication, Cultural Sensitivity, Innovative Approaches, Sustainability, Legal Aspects at <a href="https://www.netacad.com/" class="p-issuer">Cisco Networking Academy</a> in 20 January 2024.
-        <ul>
-          <li class="dt-received">Date Received: 20 January 2024</li>
-        </ul>
-      </li>
-      <li class="h-certificate">
-        <h4 class="p-name">Creating Compelling Reports</h4>
-        <a href="/PDF/Creating%20Compelling%20Reports.pdf" class="u-url">Creating Compelling Reports Certificate</a> - Why reports are valuable in business contexts, Selecting appropriate tone for reports, Identifying key points of relevance, Organizational structure for reports, Communicating specific messages to a particular audience, Scenario-based interactions, Immersive branching scenarios, Determining Relevance, Report Audience, Report Purpose, Report Tone, Data visualization techniques, Effective use of graphics and charts, Interpreting data for different audiences, Formatting and layout principles, Using storytelling techniques in reports, Analyzing and incorporating feedback at <a href="https://www.netacad.com/" class="p-issuer">Cisco Networking Academy</a> in 16 May 2024.
-        <ul>
-          <li class="dt-received">Date Received: 16 May 2024</li>
-        </ul>
-      </li>
-    </ul>
-  </section>
-  <section>
-    <h3 dir="auto">Extra Curricular Activities</h3>
-    <ul>
-      <li class="h-certificate">
-        <h4 class="p-name">Science Fair</h4>
-        <a href="/PDF/Science%20Fair.pdf" class="u-url">Science Fair Certificate</a> - Project: Electromagnets and their properties and their usage in detecting fake coins, Project Planning and Execution, Scientific Methodology, Presentation and Communication Skills at <a href="http://bes.edu.bd/" class="p-issuer">Bangladesh Elementary School</a> in 1 March 2020.
-        <ul>
-          <li class="dt-received">Date Received: 1 March 2020</li>
-        </ul>
-      </li>
-    </ul>
-  </section>
-</body>
+  
+# Certifications
+## Fortinet Certified Associate in Cybersecurity
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Fortinet%20Certified%20Associate%20in%20Cybersecurity.pdf
+- ### Given by: [Fortinet Training Institute](https://training.fortinet.com)
+- ### Date: 18 May 2024
+- ### ID: 1842311300JH
+- ### Topics:
+	- Introduction to Fortinet and FortiGate
+	- Introduction to FortiGate and FortiOS
+	- Basic Configuration
+	- Operation and Day-to-Day Administration
+	- Antivirus Protection
+	- Application Control
+	- Authentication
+	- Cybersecurity Fundamentals
+	- Firewall Configuration
+	- Intrusion Prevention Systems (IPS)
+	- Intrusion Detection Systems (IDS)
+	- SSL Inspection
+	- Virtual Private Networks (VPN)
+	- Web Filtering
+	- Fortinet Security Fabric
+	- FortiGate Devices
+	- Security Policies
+	- IPSec VPNs
+	- NAT (Network Address Translation)
+	- FortiGuard Services
+	- Logging and Monitoring
+	- Fortinet NSE Certification
+	- Cybersecurity Best Practices
+	- Incident Response
+	- Vulnerability Management
+	- Compliance (PCI DSS, SOC 2)
+	- FortiOS Management
+	- Fortinet Analytics
+	- Cloud Security
+	- Advanced Threat Detection
+
+# Cybersecurity
+## Cybersecurity Fundamentals
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Cybersecurity%20Fundamentals.pdf
+- ### Given by: [IBM SkillsBuild](https://skillsbuild.org/)
+- ### Date: 17 May 2024
+- ### ID: ILB-DNRPWDGQGMMY7GGD
+- ### Topics:
+	- Cyber threat groups
+	- Types of attacks
+	- Social engineering
+	- Case studies in cybersecurity
+	- Overall security strategies
+	- Cryptography
+	- Common approaches to prevent cyber attacks
+	- Detecting cyber attacks
+	- Responding to cyber attacks
+	- Awareness of the cybersecurity job market
+	- Cybersecurity concepts
+	- Cybersecurity objectives
+	- Cybersecurity practices
+	- Cybersecurity processes
+	- Cybersecurity risk management
+	- Cyber threat analysis
+	- Cyber threat intelligence
+	- Incident response
+	- Information security
+	- Security strategies
+	- Threat analysis
+	- Threat detection
+	- Vulnerability management
+	- Network security fundamentals
+	- Firewall configuration
+	- Intrusion detection systems (IDS)
+	- Intrusion prevention systems (IPS)
+	- Endpoint security
+	- Data encryption methods
+	- Public key infrastructure (PKI)
+	- Security information and event management (SIEM)
+	- Compliance and regulatory requirements
+	- Identity and access management (IAM)
+	- Ethical hacking and penetration testing
+	- Disaster recovery planning
+	- Business continuity planning
+	- Security policy development
+
+## Introduction to Cybersecurity
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Introduction%20to%20Cybersecurity.pdf
+- ### Given by: [Cisco Networking Academy](https://www.netacad.com/)
+- ### Date: 12 December 2023
+- ### ID: 09dc85cf-0b10-43ee-a432-0f6fea330574
+- ### Topics:
+	- Cybersecurity and Potential Impacts
+	- Most Common Cyber Threats
+	- Attacks and Vulnerabilities
+	- Protect oneself online
+	- How Organization protect themselves from this attacks
+	- Explore Different Career Options in Cyber Security
+
+## Introduction to Firewall
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Introduction%20to%20Firewall.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 25 November 2023
+- ### ID: LHWTTJSO
+- ### Topics:
+	- Introduction to Firewall Concepts
+	- Role of Firewalls in Network Security
+
+## Introduction to Cryptography
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Introduction%20to%20Cryptography.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 27 November 2023
+- ### ID: SDRDSURC
+- ### Topics:
+	- Principles of Cryptography
+	- Hands-on Experience with Encryption Techniques
+
+## Introduction to Application Security
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Introduction%20to%20Application%20Security.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 27 November 2023
+- ### ID: FZWFWVZK
+- ### Topics:
+	- Essentials of Securing Applications
+	- Best Practices in Application Security
+
+## Introduction to Cyber Crime
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Introduction%20to%20Cyber%20Crime.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 28 November 2023
+- ### ID: QVZUSFTV
+- ### Topics:
+	- Understanding the Landscape of Cybercrime
+	- Analyzing the Impact of Cybercrime
+
+## Introduction to Information Security
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Introduction%20to%20Information%20Security.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 28 November 2023
+- ### ID: LIGLMCBV
+- ### Topics:
+	- Fundamentals of Information Security
+	- Best Practices in Information Security
+
+## Introduction to Asset Security
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Introduction%20to%20Asset%20Security.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 19 December 2023
+- ### ID: CYALTRZQ
+- ### Topics:
+	- Data Types, Classification and States
+	- Roles and Responsibilities of CEO, CFO, CBO
+	- Information Life Cycle
+	- Information and Information System Security Objectives
+
+## Cyber Security For Leadership
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Cyber%20Security%20For%20Leadership.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 21 December 2023
+- ### ID: MUEDSPQN
+- ### Topics:
+	- Why is Cybersecurity important?
+	- Cyber attacks and threats
+	- Cybersecurity Strategy
+	- Threat Agents
+	- Cyber Kill Chain
+	- Cybersecurity in an Organization
+
+## Network Attacks in Cyber Security
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Network%20Attacks%20in%20Cyber%20Security.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 22 December 2023
+- ### ID: GMRABXLF
+- ### Topics:
+	- Spidering
+	- DIRB
+	- NMAP and GoBuster
+	- Enumeration
+	- Non standard Ports and Virtual Host
+	- Identifying Server Side Technology
+
+## Common Malware Attacks
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Common%20Malware%20Attacks.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 22 December 2023
+- ### ID: XKPYOKHH
+- ### Topics:
+	- Malware
+	- Unrestricted File Uploads
+	- Remote Code Execution
+	- Web Malware Attack
+	- Web Malware Attack Stages
+
+## Introduction to Cyber Attacks
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Introduction%20to%20Cyber%20Attacks.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 22 December 2023
+- ### ID: NGNVYHYI
+- ### Topics:
+	- Spidering
+	- DIRB
+	- NMAP and GoBuster
+	- Enumeration
+	- Non standard Ports and Virtual Host
+	- Identifying Server Side Technology
+	- Malware
+	- Unrestricted File Uploads
+	- Remote Code Execution
+	- Web Malware Attack
+	- Web Malware Attack Stages
+	- SQl Injection
+	- Command Injection
+
+## Encryption Basics
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Encryption%20Basics.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 22 December 2023
+- ### ID: WDEAKSPD
+- ### Topics:
+	- Cryptography
+	- Encryption
+	- Decryption
+	- Types of Encryption
+	- Encryption Algorithms and Protocols
+	- Brute Force Attacks
+	- Assymetric Encryption
+	- Symetric Encryption
+	- AES
+	- RSA
+
+# Networking and Security Certificates
+## Network Technician Career Path
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Network%20Technician%20Career%20Path.pdf
+- ### Given by: [Cisco Networking Academy](https://www.netacad.com/)
+- ### Date: 07 December 2023
+- ### ID: f1215272-534c-4fd9-b118-63e29b366278
+- ### Topics:
+	- Understanding Application Layer Services
+	- Exploring Binary Systems
+	- Configuring Cisco Devices
+	- Working with Cisco IOS
+	- Configuring Cisco Routers and Switches
+	- Introduction to Cloud Services
+	- Implementing Copper and Fiber Cabling
+	- Documentation Best Practices
+	- Managing Endpoint Devices
+	- Understanding Ethernet Protocols
+	- Providing Help Desk Support
+	- Implementing Hierarchical Network Design
+	- IP Addressing (IPv4 and IPv6)
+	- Protocols at the Network Layer
+	- Media Types in a Network
+	- Troubleshooting Network Issues
+	- Exploring Different Network Types
+	- Understanding Protocols and Standards
+	- User Support Techniques
+	- Introduction to Transport Layer Protocols
+	- Advanced Troubleshooting Methods
+	- Wireless Access Technologies
+
+## Network Support and Security
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Network%20Support%20and%20Security.pdf
+- ### Given by: [Cisco Networking Academy](https://www.netacad.com/)
+- ### Date: 08 December 2023
+- ### ID: 62d16a83-5d5f-40f8-a391-bb28bb7f7180
+- ### Topics:
+	- Effective Reading of Documentation
+	- Endpoint Device Management
+	- Providing Help Desk Support
+	- Advanced Network Troubleshooting
+	- Customer Support Strategies
+	- User Support Best Practices
+
+## Networking Basics
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Networking%20Basics.pdf
+- ### Given by: [Cisco Networking Academy](https://www.netacad.com/)
+- ### Date: 11 December 2023
+- ### ID: c3584d3e-0261-4da6-8bfe-50a9351a19e1
+- ### Topics:
+	- Network Communication Concepts
+	- Importance of Standards and Protocols
+	- Ethernet Networks Communication
+	- IP Address Features (IPv4)
+	- IPv6 Addressing
+	- Routers and Network Connectivity
+	- Network Testing and Troubleshooting
+	- Configuration of Integrated Wireless Router
+	- Wireless Client Configuration
+
+## Introduction to Internet of Things
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Introduction%20to%20Internet%20of%20Things.pdf
+- ### Given by: [Cisco Networking Academy](https://www.netacad.com/)
+- ### Date: 12 December 2023
+- ### ID: 5c2871da-7506-4407-a00b-9f9e520520bb
+- ### Topics:
+	- Impact of IOT and Transformation in business and governments
+	- Importance of Software and Data for digital business and society
+	- Benefits of Artificial Intelligence and Digital Transformation
+	- Intent Based Networking
+	- Enhanced Security in Digitized World
+
+## Basics of Computer Networking
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Basics%20of%20Computer%20Networking.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 21 November 2023
+- ### ID: XAMWIPJA
+- ### Topics:
+	- Fundamentals of Computer Networking
+	- Understanding Network Protocols
+
+## Types of Network Security
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Types%20of%20Network%20Security.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 21 November 2023
+- ### ID: TTYHXTKA
+- ### Topics:
+	- Various Types of Network Security Measures
+	- Expertise in Network Security Practices
+
+## Network Security
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Network%20Security.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 22 November 2023
+- ### ID: ZTGFHTWX
+- ### Topics:
+	- Various Types of Network Security Measures
+	- Expertise in Network Security Practices
+
+## Cloud Networking With AWS VPC
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Cloud%20Networking%20With%20AWS%20VPC.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 24 December 2023
+- ### ID: LTYVOXEO
+- ### Topics:
+	- Introduction to AWS and Networking Services
+	- Understanding Amazon VPC
+	- Understand Cloud Computing
+	- Understanding Cloud Networking
+
+# Computer Basics
+## Computer Hardware Basics
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Computer%20Hardware%20Basics.pdf
+- ### Given by: [Cisco Networking Academy](https://www.netacad.com/)
+- ### Date: 08 December 2023
+- ### ID: b7adca17-0244-4676-9e3f-eb190f9a3669
+- ### Topics:
+	- Installing Components for Personal Computers
+	- Building, Repairing, or Upgrading Personal Computers
+	- Describing Common Device Hardware
+	- Preventive Maintenance for Personal Computers
+	- Features and Functions of Laptops
+	- Features and Functions of Mobile Devices
+	- General Safety Standards
+	- Fire Safety Standards
+
+## Operating Systems Basics
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Operating%20Systems%20Basics.pdf
+- ### Given by: [Cisco Networking Academy](https://www.netacad.com/)
+- ### Date: 16 May 2024
+- ### ID: 838f460a-d3aa-44f9-a40f-b91f4b9910b2
+- ### Topics:
+	- Purpose and characteristics of operating systems
+	- Basic operating system security implementation
+	- Configuration of mobile device network connectivity
+	- Configuration of mobile device email
+	- Android operating system fundamentals
+	- iOS operating system fundamentals
+	- Linux operating system fundamentals
+	- Windows operating system fundamentals
+	- File management basics
+	- User management in operating systems
+	- Network services and protocols
+	- Operating system updates and patches
+	- Troubleshooting common operating system issues
+
+# Programming Certificates
+## C for Beginners
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/C%20for%20beginners.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 23 November 2023
+- ### ID: JCLTLYIX
+- ### Topics:
+	- Basic Concepts of Programming
+	- Syntax and Structure of the C Language
+	- Introduction to Variables and Data Types
+	- Control Flow and Looping Structures
+	- Functions and Modular Programming
+
+## ChatGPT for Coders
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/ChatGPT%20for%20Coders.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 8 February 2024
+- ### ID: OUQOAVNP
+- ### Topics:
+	- ChatGPT
+	- How to program with ChatGPT
+	- How to interpret python with ChatGPT
+	- How to debug with ChatGPT
+	- Add Exception handling to code using ChatGPT
+	- GPT 3.5 vs GPT 4
+	- ChatGPT vs Github Copilot
+	- Upload and Download programs and files with ChatGPT
+
+# Web Development Certificates
+## Front End Development - HTML
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Front%20End%20Development%20-%20HTML.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 27 November 2023
+- ### ID: JRGIYFGJ
+- ### Topics:
+	- HTML Fundamentals
+	- Structuring Web Documents
+	- Working with Forms and Input Elements
+	- Creating Hyperlinks and Navigation
+
+## HTML Tutorial
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/HTML%20Tutorial.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 21 December 2023
+- ### ID: CMBDAHAS
+- ### Topics:
+	- HTML Fundamentals
+	- Structuring Web Documents
+	- Working with Forms and Input Elements
+	- Creating Hyperlinks and Navigation
+	- HTML Table
+	- HTML Tag Anatomy
+	- HTML Links
+	- HTML Attributes
+	- Closing Tag, Element, Content
+
+## HTML Attributes and Tags
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/HTML%20Attributes%20and%20Tags.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 21 December 2023
+- ### ID: TEUNIRGK
+- ### Topics:
+	- HTML Attributes
+	- Closing Tag, Element, Content
+	- HTML Anatomy
+
+## PHP for Beginners
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/PHP%20for%20Beginners.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 19 December 2023
+- ### ID: OSDQLLJV
+- ### Topics:
+	- PHP Fundamentals
+	- PHP Variables and Variable Scope
+	- Echo and Print Statements
+	- Loops, Operators, Strings, Functions and Arrays
+
+# Language Certificates
+## EF Standard English Test
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/EF%20Standard%20English%20Test.pdf
+- ### Given by: [EF Standard English Test](https://www.efset.org/)
+- ### Date: 24 January 2024
+- ### ID: txpoPs
+- ### Topics:
+	- Can understand with ease virtually everything heard or read.
+	- Can summarize information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation.
+	- Can express him/herself spontaneously, very fluently and precisely, differentiating finer shades of meaning even in the most complex situations.
+	- Discuss issues related to science and technology, including robots and new inventions.
+	- Talk about celebrities, celebrity activism and gossip about celebrities.
+	- Use a variety of techniques for promoting creativity in your speech and writing.
+	- Discuss financial planning and give and understand advice about personal finance.
+	- Talk about stress in your life and the lives of friends and colleagues.
+	- Discuss techniques for doing research on a wide range of topics.
+
+## English for IT 1
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/English%20for%20IT%201.pdf
+- ### Given by: [Cisco Networking Academy](https://www.netacad.com/)
+- ### Date: 14 January 2024
+- ### ID: be966496-22b9-4b17-854f-87fac8e959f7
+- ### Topics:
+	- Adverbs
+	- Compilers and Interpreters Vocabulary
+	- Fraudulent Calls Vocabulary
+	- Future Perfect
+	- Idiomatic Phrases
+	- Imperative Instruction
+	- Information Security Policy
+	- Inversion
+	- Job Roles and Responsibilities
+	- Modal Verbs
+	- Network and Software Engineering Vocabulary
+	- Passive Voice
+	- Past Simple
+	- Relative Pronouns
+	- Supplier Evaluation Modules
+	- User Experience Vocabulary
+
+## English for IT 2
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/English%20for%20IT%202.pdf
+- ### Given by: [Cisco Networking Academy](https://www.netacad.com/)
+- ### Date: 14 January 2024
+- ### ID: 22bbbdbb-87c0-4152-b211-20ed3735f333
+- ### Topics:
+	- Advanced Modal Verbs
+	- Advanced Tenses
+	- Cleft Sentences
+	- Cloud Computing Vocabulary
+	- Conjunction
+	- Customer Support Vocabulary
+	- Logical Deductions
+	- Networking Vocabulary
+	- Polite Requests
+	- Sharing Feedback Vocabulary
+	- Software Vocabulary
+	- Subjunctive Mood
+	- 'They' as singular
+	- Updating Colleagues Vocabulary
+
+## Spoken English
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Spoken%20English.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 07 December 2023
+- ### ID: VUGVSYEX
+- ### Topics:
+	- Improving Spoken English Communication
+	- Effective Communication Strategies
+
+## Learn Business English
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Learn%20Business%20English.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 21 December 2023
+- ### ID: JWFJZKJJ
+- ### Topics:
+	- Writing Business Emails
+	- Business Presentation
+	- Attending Job Intervies
+	- Buisness English for Negotiation
+	- Buisness English
+	- Commonly used acronyms in Buisness
+
+## Letter Writing Fundamentals
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Letter%20Writing%20Fundamentals.pdf
+- ### Given by: [Udemy](https://www.udemy.com/)
+- ### Date: 27 May 2024
+- ### ID: UC-ae0d08c3-83cd-4946-a511-039e80f42755
+- ### Topics:
+	- What is the meaning of a Letter?
+	- Why do we write letters?
+	- What is the importance of letter writing skills?
+	- What type of letter should you write?
+	- What are the various types of letters?
+	- Differentiate between Formal Letters and Informal Letters
+	- Format of Formal and Informal Letters
+	- Important tips for good letter writing
+	- Some popular abbreviations used in formal letters
+	- Various types of formal letters
+	- MCQs related to Formal and Informal letters
+
+# Marketing Certificates
+## Introduction to Digital Marketing
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Introduction%20to%20Digital%20Marketing.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 8 January 2024
+- ### ID: OWPEBAPR
+- ### Topics:
+	- What is Digital Marketing?
+	- Why Digital Marketing?
+	- How To Do Digital Marketing?
+	- Types Of Digital Marketing
+	- Content Marketing
+	- SEO
+	- SEM
+	- Social Media Marketing
+	- Automated Marketing
+	- Affiliate Marketing
+	- Pay per click
+	- Public Relations
+	- YouTube SEO Optimization
+
+## SEO For Beginners
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/SEO%20For%20Beginners.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 25 November 2023
+- ### ID: KHAIBQJH
+- ### Topics:
+	- Introduction to Search Engine Optimization
+	- Basic SEO Strategies
+	- Keyword Research and Optimization
+
+## SEO Strategies
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/SEO%20Strategies.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 27 November 2023
+- ### ID: MUQWONJG
+- ### Topics:
+	- Advanced SEO Tactics
+	- Link Building Strategies
+	- SEO Analytics and Measurement
+
+## Design App
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Design%20App.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 20 December 2023
+- ### ID: HDIXPJPZ
+- ### Topics:
+	- Introduction to Designing an app
+	- UX vs UI
+	- UX Process
+	- UX Tools
+
+## Social Media Management
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Social%20Media%20Management.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 20 December 2023
+- ### ID: OGEFAKHC
+- ### Topics:
+	- What is Social Media Management?
+	- Why Practice Social Media Management
+	- Top Social Networks for Social Media Management
+	- Best Social Media Management Tools
+	- How to get started with Social Media Management?
+	- Why Invest in Social Media Management?
+
+## UI / UX for Beginners
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/UI%20UX%20for%20Beginners.pdf
+- ### Given by: [Great Learning](https://www.mygreatlearning.com/)
+- ### Date: 24 December 2023
+- ### ID: UTQCYFKF
+- ### Topics:
+	- Introduction to Designing an app or website
+	- UX vs UI
+	- UX Process
+	- UX Tools
+	- Wireframing
+
+# Professional Development Certificates
+## Engaging Stakeholders for Success
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Engaging%20Stakeholders%20for%20Success.pdf
+- ### Given by: [Cisco Networking Academy](https://www.netacad.com/)
+- ### Date: 20 January 2024
+- ### ID: bedbabb5-be70-48d9-bba5-f95a5db711af
+- ### Topics:
+	- Engaging Stakeholders
+	- Defining Stakeholders
+	- Value of Stakeholders
+	- Stakeholder Classification
+	- Stakeholder Analysis
+	- Power-Interest Grid
+	- Interviewing Stakeholders
+	- Trust Building
+	- Active Listening
+	- Interview Techniques
+	- Effective Relationships
+	- Communication Strategies
+	- Project Management
+	- Adapting Communication
+	- Cultural Sensitivity
+	- Innovative Approaches
+	- Sustainability
+	- Legal Aspects
+
+## Creating Compelling Reports
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Creating%20Compelling%20Reports.pdf
+- ### Given by: [Cisco Networking Academy](https://www.netacad.com/)
+- ### Date: 16 May 2024
+- ### ID: e3dbeaf0-c989-4df0-9b34-ee58093904f5
+- ### Topics:
+	- Why reports are valuable in business contexts
+	- Selecting appropriate tone for reports
+	- Identifying key points of relevance
+	- Organizational structure for reports
+	- Communicating specific messages to a particular audience
+	- Scenario-based interactions
+	- Immersive branching scenarios
+	- Determining Relevance
+	- Report Audience
+	- Report Purpose
+	- Report Tone
+	- Data visualization techniques
+	- Effective use of graphics and charts
+	- Interpreting data for different audiences
+	- Formatting and layout principles
+	- Using storytelling techniques in reports
+	- Analyzing and incorporating feedback
+
+# Extra Curricular Activities
+## Science Fair
+- ### PDF: https://github.com/darthdemono/DarthDemono/blob/main/PDF/Science%20Fair.pdf
+- ### Given by: [Bangladesh Elementary School](http://bes.edu.bd/)
+- ### Date: 1 March 2020
+- ### ID: 
+- ### Topics:
+	- Project: Electromagnets and their properties and their usage in detecting fake coins
+	- Project Planning and Execution
+	- Scientific Methodology
+	- Presentation and Communication Skills
+
 </details>
