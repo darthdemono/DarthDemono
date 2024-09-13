@@ -1,4 +1,4 @@
-<h1Well, hello there! My name is Jubair Hasan (Joy) AKA DarthDemono. I’m a Fortinet Certified Associate and a writer of sorts.</h1>
+<h1>Well, hello there! My name is Jubair Hasan (Joy) AKA DarthDemono. I’m a Fortinet Certified Associate and a writer of sorts.</h1>
 <p>
 My journey with the world of Internet Technology has existed since the very beginning of my life. In a few short years, I transitioned from playing with small cell phones and watching box televisions into the realm of smartphones. My inquisitive nature led me to explore whatever I touched. I remember accidentally bricking my dad’s Galaxy J7 while attempting to gain root access, and obviously, I got the punishment I deserved. I also completely broke down the PC to its bare circuits. Curiosity killed the cat, but satisfaction brought it back.
 
