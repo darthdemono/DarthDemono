@@ -1,6 +1,4 @@
-<h1>Well, hello there! My name is Jubair Hasan (Joy) AKA DarthDemono. I’m a Fortinet Certified Associate and a writer of sorts.</h1>
-<p>
-Well, hello there! My name is Jubair Hasan (Joy), AKA DarthDemono. I’m a Fortinet Certified Associate and a writer with knowledge in Political Theory, Logic, and Philosophy.
+<h1>Well, hello there! My name is Jubair Hasan (Joy), AKA DarthDemono. I’m a Fortinet Certified Associate and a writer with knowledge in Political Theory, Logic, and Philosophy.</h1>
 
 My journey with the world of Internet Technology has existed since the very beginning of my life. In a few short years, I transitioned from playing with small cell phones and watching box televisions into the realm of smartphones. My inquisitive nature led me to explore whatever I touched. I remember accidentally bricking my dad’s Galaxy J7 while attempting to gain root access, and, obviously, I got the punishment I deserved. I also completely broke down the PC to its bare circuits. Curiosity killed the cat, but satisfaction brought it back.
 
@@ -19,49 +17,105 @@ I've also authored publications exploring societal issues, including "Navigating
 I am an alumnus of Bangladesh Elementary School and graduated with a perfect GPA of 5.00 in SSC in 2022. I continued my academic journey at Halishahar Cantonment Public School & College , where I graduated from HSC with a GPA of 5.00.
 
 Currently, I'm contributing as the General Secretary at Agamir Hashi, a nonprofit mental health awareness organization.
-</p>
 
-<h2>Technologies I Know</h2>
 
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/-StackOverflow-001633?style=for-the-badge&logo=stackoverflow" alt="StackOverflow Badge">
-  <img src="https://img.shields.io/badge/-Python-001633?style=for-the-badge&logo=python" alt="Python Badge">
-  <img src="https://img.shields.io/badge/-JavaScript-001633?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/-HTML-001633?style=for-the-badge&logo=html5" alt="HTML Badge">
-  <img src="https://img.shields.io/badge/-CSS-001633?style=for-the-badge&logo=css3" alt="CSS Badge">
-  <img src="https://img.shields.io/badge/-Git-001633?style=for-the-badge&logo=git" alt="Git Badge">
-  <img src="https://img.shields.io/badge/-Windows-001633?style=for-the-badge&logo=Windows" alt="Windows Badge">
-  <img src="https://img.shields.io/badge/-CMD-001633?style=for-the-badge&logo=windowsterminal" alt="CMD Badge">
-  <img src="https://img.shields.io/badge/-C-001633?style=for-the-badge&logo=c" alt="C Badge">
-  <img src="https://img.shields.io/badge/-Cisco-001633?style=for-the-badge&logo=Cisco" alt="Cisco">
-  <img src="https://img.shields.io/badge/-Spotify-001633?style=for-the-badge&logo=Spotify" alt="Spotify">
-  <img src="https://img.shields.io/badge/-openwrt-001633?style=for-the-badge&logo=openwrt" alt="OpenWRT">
-  <img src="https://img.shields.io/badge/-Google-001633?style=for-the-badge&logo=Google" alt="Google">
-  <img src="https://img.shields.io/badge/-dotenv-001633?style=for-the-badge&logo=dotenv" alt="DotENV">
-  <img src="https://img.shields.io/badge/-musicbrainz-001633?style=for-the-badge&logo=musicbrainz" alt="MusicBrainz">
+## Technologies I Know
+
+<div>
+  <img src="https://img.shields.io/badge/-Python-%23323330.svg?style=for-the-badge&logoColor=white&&logo=python" alt="Python Badge">
+  <img src="https://img.shields.io/badge/-C-%23323330.svg?style=for-the-badge&logoColor=white&&logo=c" alt="C Badge">
+  <img src="https://img.shields.io/badge/-C++-%23323330.svg?style=for-the-badge&logoColor=white&&logo=c%2b%2b" alt="C++ Badge">
+  <img src="https://img.shields.io/badge/-JavaScript-%23323330.svg?style=for-the-badge&logoColor=white&logo=javascript" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/-PHP-%23323330.svg?style=for-the-badge&logoColor=white&&logo=php" alt="PHP Badge">
+  <img src="https://img.shields.io/badge/-Bash-%23323330.svg?style=for-the-badge&logoColor=white&&logo=gnubash" alt="Bash Badge">
+  <img src="https://img.shields.io/badge/-PowerShell-%23323330.svg?style=for-the-badge&logoColor=white&&logo=powershell" alt="PowerShell Badge">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/-HTML-%23323330.svg?style=for-the-badge&logoColor=white&&logo=html5" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/-CSS-%23323330.svg?style=for-the-badge&logoColor=white&&logo=css3" alt="CSS Badge">
+  <img src="https://img.shields.io/badge/-Bootstrap-%23323330.svg?style=for-the-badge&logoColor=white&&logo=bootstrap" alt="Bootstrap Badge">
+  <img src="https://img.shields.io/badge/-Markdown-%23323330.svg?style=for-the-badge&logoColor=white&&logo=markdown" alt="Markdown Badge">
+</div>
+<div>
+  <!-- Networking & Cybersecurity -->
+  <img src="https://img.shields.io/badge/-Cisco-%23323330.svg?style=for-the-badge&logoColor=white&&logo=Cisco" alt="Cisco Badge">
+  <img src="https://img.shields.io/badge/-Fortinet-%23323330.svg?style=for-the-badge&logoColor=white&&logo=fortinet" alt="Fortinet Badge">
+  <img src="https://img.shields.io/badge/-Networking-%23323330.svg?style=for-the-badge&logoColor=white&&logo=network" alt="Networking Badge">
+  <img src="https://img.shields.io/badge/-Firewalls-%23323330.svg?style=for-the-badge&logoColor=white&&logo=firewall" alt="Firewalls Badge">
+  <img src="https://img.shields.io/badge/-VPNs-%23323330.svg?style=for-the-badge&logoColor=white&&logo=vpn" alt="VPNs Badge">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/-Linux-%23323330.svg?style=for-the-badge&logoColor=white&&logo=linux" alt="Linux Badge">
+  <img src="https://img.shields.io/badge/-Ubuntu-%23323330.svg?style=for-the-badge&logoColor=white&&logo=ubuntu" alt="Ubuntu Badge">
+  <img src="https://img.shields.io/badge/-Windows-%23323330.svg?style=for-the-badge&logoColor=white&&logo=Windows" alt="Windows Badge">
+  <img src="https://img.shields.io/badge/-OpenWRT-%23323330.svg?style=for-the-badge&logoColor=white&&logo=openwrt" alt="OpenWRT Badge">
+  <img src="https://img.shields.io/badge/-WSL-%23323330.svg?style=for-the-badge&logoColor=white&&logo=windows" alt="WSL Badge">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/-Docker-%23323330.svg?style=for-the-badge&logoColor=white&&logo=docker" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/-GitHub-%23323330.svg?style=for-the-badge&logoColor=white&&logo=github" alt="GitHub Badge">
+  <img src="https://img.shields.io/badge/-Git-%23323330.svg?style=for-the-badge&logoColor=white&&logo=git" alt="Git Badge">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/-SQLite-%23323330.svg?style=for-the-badge&logoColor=white&&logo=sqlite" alt="SQLite Badge">
+  <img src="https://img.shields.io/badge/-MySQL-%23323330.svg?style=for-the-badge&logoColor=white&&logo=mysql" alt="MySQL Badge">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/-MusicBrainz-%23323330.svg?style=for-the-badge&logoColor=white&&logo=musicbrainz" alt="MusicBrainz Badge">
+  <img src="https://img.shields.io/badge/-Spotify%20API-%23323330.svg?style=for-the-badge&logoColor=white&&logo=spotify" alt="Spotify API Badge">
+  <img src="https://img.shields.io/badge/-CMD-%23323330.svg?style=for-the-badge&logoColor=white&&logo=windowsterminal" alt="CMD Badge">
+  <img src="https://img.shields.io/badge/-Dotenv-%23323330.svg?style=for-the-badge&logoColor=white&&logo=dotenv" alt="DotENV Badge">
 </div>
 
-<h2>Socials</h2>
+## Socials
 
 <div class="socialmedia-btns">
-  <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="My Instagram" href="https://instagram.com/darthdemono/" class="url u-url">
-    <img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram" alt="Instagram Badge">
+  <a href="https://instagram.com/darthdemono/" title="My Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-%23323330?style=for-the-badge&logoColor=white&logo=Instagram" alt="Instagram Badge">
   </a>
   
-  <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="My Facebook Profile" href="https://www.facebook.com/darthdemono/" class="url u-url">
-    <img src="https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook" alt="Facebook Badge">
+  <a href="https://www.facebook.com/darthdemono/" title="My Facebook Profile">
+    <img src="https://img.shields.io/badge/-Facebook-%23323330?style=for-the-badge&logoColor=white&logo=Facebook" alt="Facebook Badge">
   </a>
   
-  <a tabindex="0" rel="external author me contact about" hreflang="en" type="text/html" title="My Stackoverflow Profile" href="https://stackoverflow.com/users/13643722/darth-demono?tab=profile" class="url u-url stack fa-stack-overflow">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-black?style=for-the-badge&logo=StackOverflow" alt="StackOverflow Badge">
+  <a href="https://stackoverflow.com/users/13643722/darth-demono?tab=profile" title="My StackOverflow Profile">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-%23323330?style=for-the-badge&logoColor=white&logo=StackOverflow" alt="StackOverflow Badge">
+  </a>
+
+  <a href="https://github.com/darthdemono" title="My GitHub Profile">
+    <img src="https://img.shields.io/badge/-GitHub-%23323330?style=for-the-badge&logoColor=white&logo=GitHub" alt="GitHub Badge">
+  </a>
+
+  <a href="https://www.linkedin.com/in/darthdemono/" title="My LinkedIn Profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23323330?style=for-the-badge&logoColor=white&logo=LinkedIn" alt="LinkedIn Badge">
+  </a>
+
+  <a href="https://independent.academia.edu/darthdemono" title="My Academia Profile">
+    <img src="https://img.shields.io/badge/-Academia-%23323330?style=for-the-badge&logoColor=white&logo=academia" alt="Academia Badge">
+  </a>
+
+  <a href="https://orcid.org/0009-0008-0763-8265" title="My ORCID Profile">
+    <img src="https://img.shields.io/badge/-ORCID-%23323330?style=for-the-badge&logoColor=white&logo=orcid" alt="ORCID Badge">
+  </a>
+
+  <a href="https://flowcv.com/resume/bcsr5ufjhc" title="My FlowCV Resume">
+    <img src="https://img.shields.io/badge/-Resume-%23323330?style=for-the-badge&logoColor=white&logo=cv" alt="FlowCV Badge">
   </a>
 </div>
 
-<h2>Statistics</h2>
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=darthdemono&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+
+## Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darthdemono&show_icons=true&theme=radical&text_color=ffffff&border_color=800080&custom_title=GitHub+Stats" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darthdemono&layout=compact&theme=radical&text_color=ffffff&border_color=800080&custom_title=Most+Active+Languages" width=413 alt="Most Active Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=radical&text_color=ffffff&layout=compact&border_color=800080&v=2" alt="Wakatime Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darthdemono&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=darthdemono&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darthdemono&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width=413 alt="Most Active Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Wakatime Stats"/>
 </div>
+
+
+
+
 
