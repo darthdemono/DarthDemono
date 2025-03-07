@@ -57,7 +57,6 @@ Currently, I'm contributing as the General Secretary at Agamir Hashi, a nonprofi
   <img src="https://img.shields.io/badge/-Git-%23323330.svg?style=for-the-badge&logoColor=white&&logo=git" alt="Git Badge">
 </div>
 <div>
-  <img src="https://img.shields.io/badge/-SQLite-%23323330.svg?style=for-the-badge&logoColor=white&&logo=sqlite" alt="SQLite Badge">
   <img src="https://img.shields.io/badge/-MySQL-%23323330.svg?style=for-the-badge&logoColor=white&&logo=mysql" alt="MySQL Badge">
 </div>
 <div>
@@ -73,31 +72,24 @@ Currently, I'm contributing as the General Secretary at Agamir Hashi, a nonprofi
   <a href="https://instagram.com/darthdemono/" title="My Instagram">
     <img src="https://img.shields.io/badge/-Instagram-%23323330?style=for-the-badge&logoColor=white&logo=Instagram" alt="Instagram Badge">
   </a>
-  
   <a href="https://www.facebook.com/darthdemono/" title="My Facebook Profile">
     <img src="https://img.shields.io/badge/-Facebook-%23323330?style=for-the-badge&logoColor=white&logo=Facebook" alt="Facebook Badge">
   </a>
-  
   <a href="https://stackoverflow.com/users/13643722/darth-demono?tab=profile" title="My StackOverflow Profile">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-%23323330?style=for-the-badge&logoColor=white&logo=StackOverflow" alt="StackOverflow Badge">
   </a>
-
   <a href="https://github.com/darthdemono" title="My GitHub Profile">
     <img src="https://img.shields.io/badge/-GitHub-%23323330?style=for-the-badge&logoColor=white&logo=GitHub" alt="GitHub Badge">
   </a>
-
   <a href="https://www.linkedin.com/in/darthdemono/" title="My LinkedIn Profile">
     <img src="https://img.shields.io/badge/-LinkedIn-%23323330?style=for-the-badge&logoColor=white&logo=LinkedIn" alt="LinkedIn Badge">
   </a>
-
   <a href="https://independent.academia.edu/darthdemono" title="My Academia Profile">
     <img src="https://img.shields.io/badge/-Academia-%23323330?style=for-the-badge&logoColor=white&logo=academia" alt="Academia Badge">
   </a>
-
   <a href="https://orcid.org/0009-0008-0763-8265" title="My ORCID Profile">
     <img src="https://img.shields.io/badge/-ORCID-%23323330?style=for-the-badge&logoColor=white&logo=orcid" alt="ORCID Badge">
   </a>
-
   <a href="https://flowcv.com/resume/bcsr5ufjhc" title="My FlowCV Resume">
     <img src="https://img.shields.io/badge/-Resume-%23323330?style=for-the-badge&logoColor=white&logo=cv" alt="FlowCV Badge">
   </a>
