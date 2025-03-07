@@ -106,8 +106,3 @@ Currently, I'm contributing as the General Secretary at Agamir Hashi, a nonprofi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darthdemono&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width=413 alt="Most Active Languages"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=darthdemono&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Wakatime Stats"/>
 </div>
-
-
-
-
-
