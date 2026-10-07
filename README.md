@@ -65,20 +65,28 @@ Networking, self-hosting and the rest, which `skillicons` has no icons for:
 ## Projects
 
 <div align="center">
+  <a href="https://github.com/darthdemono/Dossify"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=Dossify&theme=dark" alt="Dossify"></a>
+  <a href="https://github.com/darthdemono/EltePortal"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=EltePortal&theme=dark" alt="EltePortal"></a>
   <a href="https://github.com/darthdemono/sl2-analyzer"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=sl2-analyzer&theme=dark" alt="sl2-analyzer"></a>
+  <a href="https://github.com/darthdemono/EnvVault"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=EnvVault&theme=dark" alt="EnvVault"></a>
   <a href="https://github.com/darthdemono/PingDD"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=PingDD&theme=dark" alt="PingDD"></a>
   <a href="https://github.com/darthdemono/AMOLED-Serenity"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=AMOLED-Serenity&theme=dark" alt="AMOLED Serenity"></a>
-  <a href="https://github.com/darthdemono/UltimateRedist"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=UltimateRedist&theme=dark" alt="UltimateRedist"></a>
 </div>
 
 | Project | What it is |
 |---|---|
-| **[sl2-analyzer](https://sl2-analyzer.darthdemono.com/)** | A FromSoftware save file parser that decrypts `.sl2` files and reports character stats, inventory, bonfires lit, and bosses defeated as Markdown or JSON. Supports Dark Souls 1, 2 and 3, Elden Ring and Sekiro, detecting the game automatically. Runs read-only as a Python CLI or as a static browser app that redraws each save as the game's own Level-Up screen. |
+| **[Dossify](https://github.com/darthdemono/Dossify)** | Turns the records already on your machine into a journal you can read: what happened, when it happened, and where each line came from. It compiles private exports into Markdown. |
+| **[EltePortal](https://github.com/darthdemono/EltePortal)** | A toolbox for ELTE students who want to use the university systems they already depend on without living in a pile of browser tabs. It reads Canvas, the bundled ELTE Neptun profile, the public timetable and selected public course-file sites, and returns the result in one consistent shape. |
+| **[sl2-analyzer](https://sl2-analyzer.darthdemono.com/)** | Reads a FromSoftware `.sl2` save and returns a plain report of the run: who the character is, what they are carrying, and how far they got. Seven games, in the browser or on the command line. Its [sl2-corpus](https://github.com/darthdemono/sl2-corpus) is a documented collection of save files. |
+| **[EnvVault](https://darthdemono.github.io/EnvVault/)** | A local-first, self-hosted secrets manager. Work in progress. |
+| **[meta-relationships-exporter](https://github.com/darthdemono/meta-relationships-exporter)** | Two scripts you paste into your own browser console to save who you follow, who follows you and who your Facebook friends are, as JSON with each person's username and display name side by side. |
+| **[hyperos-dashboard-history-exporter](https://github.com/darthdemono/hyperos-dashboard-history-exporter)** | A Java exporter for HyperOS dashboard history. |
 | **[PingDD](http://pingdd.darthdemono.com/)** | A cross-platform TCP "ping" tool written in C. Instead of ICMP it checks a specific TCP port and tells you whether it's reachable, how fast the connection handshake completes, and optionally logs every attempt to CSV. Built for network administrators testing availability and responsiveness on remote servers. |
 | **[AMOLED Serenity](https://github.com/darthdemono/AMOLED-Serenity)** | A smooth, low-contrast Obsidian theme designed specifically for AMOLED screens. |
 | **[UltimateRedist](https://github.com/darthdemono/UltimateRedist)** | A PowerShell solution that automates installing essential redistributables and .NET runtimes using Winget. |
+| **[InstallWinget](https://github.com/darthdemono/InstallWinget)** | A PowerShell script that installs Winget with all dependencies, bypassing installation issues on PowerShell 7. |
 | **[Spotipython](https://github.com/darthdemono/Spotipython)** | Uses the Spotify API to fetch detailed information about albums, artists, and tracks, either from an album link or by searching for specific tracks. |
-| **[Discord.py Bot](https://github.com/darthdemono/Discord.py)** | How I learned APIs and Python — a Discord bot with a loop function that displayed my Instagram and YouTube data over their APIs. |
+| **[Discord.py Bot](https://github.com/darthdemono/Discord.py)** | How I learned APIs and Python: a Discord bot with a loop function that displayed my Instagram and YouTube data over their APIs. Old, and I'm not sure it still works. |
 
 ## Certifications
 
