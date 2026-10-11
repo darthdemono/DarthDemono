@@ -68,17 +68,19 @@ Networking, self-hosting and the rest, which `skillicons` has no icons for:
   <a href="https://github.com/darthdemono/Dossify"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=Dossify&theme=dark" alt="Dossify"></a>
   <a href="https://github.com/darthdemono/EltePortal"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=EltePortal&theme=dark" alt="EltePortal"></a>
   <a href="https://github.com/darthdemono/sl2-analyzer"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=sl2-analyzer&theme=dark" alt="sl2-analyzer"></a>
-  <a href="https://github.com/darthdemono/EnvVault"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=EnvVault&theme=dark" alt="EnvVault"></a>
-  <a href="https://github.com/darthdemono/PingDD"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=PingDD&theme=dark" alt="PingDD"></a>
-  <a href="https://github.com/darthdemono/AMOLED-Serenity"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=AMOLED-Serenity&theme=dark" alt="AMOLED Serenity"></a>
+  <a href="https://github.com/darthdemono/UnENVerse"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=UnENVerse&theme=dark" alt="UnENVerse"></a>
+  <a href="https://github.com/darthdemono/satisfactory-analyzer"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=satisfactory-analyzer&theme=dark" alt="satisfactory-analyzer"></a>
+  <a href="https://github.com/darthdemono/witcher-analyzer"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=witcher-analyzer&theme=dark" alt="witcher-analyzer"></a>
 </div>
 
 | Project | What it is |
 |---|---|
-| **[Dossify](https://github.com/darthdemono/Dossify)** | Turns the records already on your machine into a journal you can read: what happened, when it happened, and where each line came from. It compiles private exports into Markdown. |
-| **[EltePortal](https://github.com/darthdemono/EltePortal)** | A toolbox for ELTE students who want to use the university systems they already depend on without living in a pile of browser tabs. It reads Canvas, the bundled ELTE Neptun profile, the public timetable and selected public course-file sites, and returns the result in one consistent shape. |
-| **[sl2-analyzer](https://sl2-analyzer.darthdemono.com/)** | Reads a FromSoftware `.sl2` save and returns a plain report of the run: who the character is, what they are carrying, and how far they got. Seven games, in the browser or on the command line. Its [sl2-corpus](https://github.com/darthdemono/sl2-corpus) is a documented collection of save files. |
-| **[EnvVault](https://darthdemono.github.io/EnvVault/)** | A local-first, self-hosted secrets manager. Work in progress. |
+| **[Dossify](https://github.com/darthdemono/Dossify)** | A journal built from the records already on my machine: what happened, when, and where each line came from. Private exports go in, Markdown comes out. |
+| **[EltePortal](https://github.com/darthdemono/EltePortal)** | A toolbox for ELTE students tired of living in browser tabs. One command line over Canvas, the ELTE Neptun profile, the public timetable and the open course-file sites, with the same output shape for all of them. |
+| **[UnENVerse](https://unenverse.darthdemono.com/)** | A self-hosted secrets manager for people who run their own infrastructure: a desktop app, a command-line tool and an optional server around one encrypted vault. It was called EnvVault until October 2026. |
+| **[sl2-analyzer](https://sl2-analyzer.darthdemono.com/)** | A plain report of a FromSoftware run from its `.sl2` save: who the character is, what they are carrying, how far they got. Seven games, in the browser or on the command line. Its [sl2-corpus](https://github.com/darthdemono/sl2-corpus) is a documented collection of save files. |
+| **[satisfactory-analyzer](https://satisfactory-analyzer.darthdemono.com/)** | Drop in a Satisfactory `.sav` and get a plain report of the factory: where you are in the tech tree, every building and what it is making, and what is in every box. Browser or command line. |
+| **[witcher-analyzer](https://witcher-analyzer.darthdemono.com/)** | Drop in a Witcher 1 save and get Geralt's level and gold, what he carries, every quest and where it stands, and what he has learned to brew. Browser or command line. |
 | **[meta-relationships-exporter](https://github.com/darthdemono/meta-relationships-exporter)** | Two scripts you paste into your own browser console to save who you follow, who follows you and who your Facebook friends are, as JSON with each person's username and display name side by side. |
 | **[hyperos-dashboard-history-exporter](https://github.com/darthdemono/hyperos-dashboard-history-exporter)** | A Java exporter for HyperOS dashboard history. |
 | **[PingDD](http://pingdd.darthdemono.com/)** | A cross-platform TCP "ping" tool written in C. Instead of ICMP it checks a specific TCP port and tells you whether it's reachable, how fast the connection handshake completes, and optionally logs every attempt to CSV. Built for network administrators testing availability and responsiveness on remote servers. |
