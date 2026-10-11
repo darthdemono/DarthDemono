@@ -67,10 +67,10 @@ Networking, self-hosting and the rest, which `skillicons` has no icons for:
 <div align="center">
   <a href="https://github.com/darthdemono/Dossify"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=Dossify&theme=dark" alt="Dossify"></a>
   <a href="https://github.com/darthdemono/EltePortal"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=EltePortal&theme=dark" alt="EltePortal"></a>
-  <a href="https://github.com/darthdemono/sl2-analyzer"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=sl2-analyzer&theme=dark" alt="sl2-analyzer"></a>
   <a href="https://github.com/darthdemono/UnENVerse"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=UnENVerse&theme=dark" alt="UnENVerse"></a>
-  <a href="https://github.com/darthdemono/satisfactory-analyzer"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=satisfactory-analyzer&theme=dark" alt="satisfactory-analyzer"></a>
-  <a href="https://github.com/darthdemono/witcher-analyzer"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=witcher-analyzer&theme=dark" alt="witcher-analyzer"></a>
+  <a href="https://github.com/darthdemono/PingDD"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=PingDD&theme=dark" alt="PingDD"></a>
+  <a href="https://github.com/darthdemono/sl2-analyzer"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=sl2-analyzer&theme=dark" alt="sl2-analyzer"></a>
+  <a href="https://github.com/darthdemono/AMOLED-Serenity"><img src="https://stats.darthdemono.com/api/pin?username=darthdemono&repo=AMOLED-Serenity&theme=dark" alt="AMOLED-Serenity"></a>
 </div>
 
 | Project | What it is |
