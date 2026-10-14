@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-Fortinet%20Certified%20Associate-%23323330.svg?style=for-the-badge&logoColor=white&logo=fortinet" alt="Fortinet Certified Associate">
   <img src="https://img.shields.io/badge/-BSc%20CS%20%40%20ELTE-%23323330.svg?style=for-the-badge&logoColor=white" alt="BSc CS at ELTE">
   <img src="https://img.shields.io/badge/-IELTS%208.0%20%2F%20C1-%23323330.svg?style=for-the-badge&logoColor=white" alt="IELTS 8.0 / C1">
-  <img src="https://komarev.com/ghpvc/?username=darthdemono&style=for-the-badge&color=323330&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://darthdemono.com/views.php" alt="Profile views">
   <img src="https://img.shields.io/github/followers/darthdemono?style=for-the-badge&color=323330&labelColor=323330" alt="GitHub followers">
   <img src="https://img.shields.io/github/stars/darthdemono?style=for-the-badge&color=323330&labelColor=323330" alt="Total stars">
 </div>
